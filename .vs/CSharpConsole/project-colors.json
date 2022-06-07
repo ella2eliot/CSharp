@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9315d7f0-ecb5-4a5a-8017-cda8b5ef14be": {
+      "ProjectGuid": "9315d7f0-ecb5-4a5a-8017-cda8b5ef14be",
+      "DisplayName": "CSharpConsole",
+      "ColorIndex": 0
+    },
+    "d638c365-de14-4198-9f64-90dfea313cdd": {
+      "ProjectGuid": "d638c365-de14-4198-9f64-90dfea313cdd",
+      "DisplayName": "HealthCareConsole",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "818e8717-0f03-4290-b1bc-37b5d30c4eea": {
+      "ProjectGuid": "818e8717-0f03-4290-b1bc-37b5d30c4eea",
+      "DisplayName": "HealthCareConsole",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
