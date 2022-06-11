@@ -1,0 +1,12 @@
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\Client\bin\Debug\Client.exe.config
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\Client\bin\Debug\Client.exe
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\Client\bin\Debug\Client.pdb
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\Client\bin\Debug\SimpleTCP.dll
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\Client\obj\Debug\Client.Form1.resources
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\Client\obj\Debug\Client.csproj.CopyComplete
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\Client\obj\Debug\Client.exe
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\Client\obj\Debug\Client.pdb

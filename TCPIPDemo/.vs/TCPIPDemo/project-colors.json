@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "58bc293c-4fae-46f5-bf52-83fb165db262": {
+      "ProjectGuid": "58bc293c-4fae-46f5-bf52-83fb165db262",
+      "DisplayName": "TCPIPDemo",
+      "ColorIndex": 0
+    },
+    "2511a509-3807-49ef-b071-02d030c25d50": {
+      "ProjectGuid": "2511a509-3807-49ef-b071-02d030c25d50",
+      "DisplayName": "Client",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

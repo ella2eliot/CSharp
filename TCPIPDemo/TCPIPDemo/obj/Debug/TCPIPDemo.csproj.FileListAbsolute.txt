@@ -1,0 +1,13 @@
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.exe.config
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.exe
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\TCPIPDemo\bin\Debug\TCPIPDemo.pdb
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\TCPIPDemo\bin\Debug\SimpleTCP.dll
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csproj.AssemblyReference.cache
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.Form1.resources
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.Properties.Resources.resources
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csproj.GenerateResource.cache
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.csproj.CopyComplete
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.exe
+D:\Users\User\Documents\Program\WindowService\TCPIPDemo\TCPIPDemo\obj\Debug\TCPIPDemo.pdb
