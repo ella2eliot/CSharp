@@ -10,7 +10,7 @@ namespace CSharpConsole
         {
             //DateTimeFunctions.DtToString();
             //DateTimeFunctions.DtFromString("2019/07/30 15:18:53");
-            StringFunctions.StartWithTesting();
+            StringFunctions.StringHeaderKanban();
             //DictionaryFunction.FristDefaultTest();
             //HealthCare.DemoHealth();
             //ExceptionFunction.MulityCatchTest();

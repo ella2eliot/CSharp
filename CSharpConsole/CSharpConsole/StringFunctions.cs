@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace CSharpConsole
@@ -9,6 +10,32 @@ namespace CSharpConsole
     class StringFunctions
     {
         public StringFunctions() { }
+
+        public static void StringHeaderKanban()
+        {
+            // http://patorjk.com/software/taag/#p=display&f=Big&t=Hi
+            var str = @"
+  _   _       _      _____                              _     _____          _____ _     _                        _           _  _    _ _   __/\           _     ____                   __     _ 
+ | \ | |     | |    / ____|                            | |   |_   _|        / ____| |   (_)                      | |  ____  _| || |_ | (_) / //\| ___   /\| |/\ / /\ \          _  _____\ \   | |
+ |  \| | ___ | |_  | (___  _   _ _ __  _ __   ___  _ __| |_    | |  _ __   | |    | |__  _ _ __   ___  ___  ___  | | / __ \|_  __  _/ __) / /    ( _ )  \ ` ' /| |  | |______ _| ||______\ \  | |
+ | . ` |/ _ \| __|  \___ \| | | | '_ \| '_ \ / _ \| '__| __|   | | | '_ \  | |    | '_ \| | '_ \ / _ \/ __|/ _ \ | |/ / _` |_| || |_\__ \/ /     / _ \/\_     _| |  | |______|_   _|_____ \ \ | |
+ | |\  | (_) | |_   ____) | |_| | |_) | |_) | (_) | |  | |_   _| |_| | | | | |____| | | | | | | |  __/\__ \  __/ |_| | (_| |_  __  _(   / / _   | (_>  </ , . \| |  | |        |_||______| \ \| |
+ |_| \_|\___/ \__| |_____/ \__,_| .__/| .__/ \___/|_|   \__| |_____|_| |_|  \_____|_| |_|_|_| |_|\___||___/\___| (_)\ \__,_| |_||_|  |_/_/ (_)   \___/\/\/|_|\/| |  | |                     \_\ |
+                                | |   | |                                                                            \____/                                     \_\/_/_____                   | |
+                                |_|   |_|                                                                                                                           |______|                  |_|
+            ";
+            Console.WriteLine(str);            
+        }
+        public static void StringSplit()
+        {   
+            var str = "ST,GS,SN,P11537-001      ,+ 66.700kg";
+            var array_str= str.Split(',');
+            Console.WriteLine(array_str[3].Trim());
+            // get double with REGEX           
+            Console.WriteLine(Regex.Match(array_str[4], "[+-]?([0-9]*[.])?[0-9]+"));
+            Console.WriteLine(Convert.ToDouble(Regex.Match(array_str[4].Trim(), "[+-]?([0-9]*[.])?[0-9]+").Value));
+            Console.WriteLine(array_str.Length);
+        }
 
         public static void StartWithTesting()
         {
