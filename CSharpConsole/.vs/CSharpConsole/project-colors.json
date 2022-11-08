@@ -20,7 +20,17 @@
       "ProjectGuid": "818e8717-0f03-4290-b1bc-37b5d30c4eea",
       "DisplayName": "HealthCareConsole",
       "ColorIndex": 2
+    },
+    "1158bebe-ffc4-4f33-80b0-1963a9202b19": {
+      "ProjectGuid": "1158bebe-ffc4-4f33-80b0-1963a9202b19",
+      "DisplayName": "InterView",
+      "ColorIndex": 3
+    },
+    "5728827a-6ce0-4e49-b95c-6949958a60f3": {
+      "ProjectGuid": "5728827a-6ce0-4e49-b95c-6949958a60f3",
+      "DisplayName": "InterView",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }

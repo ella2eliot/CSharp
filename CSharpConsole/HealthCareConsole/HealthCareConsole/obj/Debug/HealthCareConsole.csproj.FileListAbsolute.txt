@@ -6,3 +6,11 @@ D:\Program\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCar
 D:\Program\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.exe
 D:\Program\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.pdb
 D:\Program\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.csproj.AssemblyReference.cache
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.exe.config
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.exe
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.pdb
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.csproj.AssemblyReference.cache
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.exe
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.pdb

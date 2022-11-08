@@ -1,0 +1,6 @@
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\InterView\bin\Debug\InterView.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\InterView\bin\Debug\InterView.pdb
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\InterView\obj\Debug\InterView.csproj.AssemblyReference.cache
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\InterView\obj\Debug\InterView.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\InterView\obj\Debug\InterView.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\InterView\obj\Debug\InterView.pdb
