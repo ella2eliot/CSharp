@@ -10,11 +10,13 @@ namespace CSharpConsole
         {
             //DateTimeFunctions.DtToString();
             //DateTimeFunctions.DtFromString("2019/07/30 15:18:53");
-            StringFunctions.StringHeaderKanban();
+            //StringFunctions.StringHeaderKanban();
             //DictionaryFunction.FristDefaultTest();
             //HealthCare.DemoHealth();
             //ExceptionFunction.MulityCatchTest();
             //JsonFunctions.ParseTesting();
+            var input=Console.ReadLine();
+            LogFile.OutputTxt(input);
             Console.ReadLine();
             //TencentMPTMovement();
         }
