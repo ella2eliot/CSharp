@@ -12,6 +12,7 @@ D:\Program\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.pdb
 D:\Program\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.exe.config
 D:\Program\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.AssemblyReference.cache
 D:\Program\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.SuggestedBindingRedirects.cache
+<<<<<<< HEAD
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe.config
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.pdb
@@ -28,3 +29,19 @@ D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSh
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.pdb
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\InterView.dll
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\InterView.pdb
+=======
+D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe.config
+D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe
+D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.pdb
+D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.exe
+D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Newtonsoft.Json.dll
+D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.pdb
+D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.exe.config
+D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Newtonsoft.Json.xml
+D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.AssemblyReference.cache
+D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.SuggestedBindingRedirects.cache
+D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.CoreCompileInputs.cache
+D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.CopyComplete
+D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.exe
+D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.pdb
+>>>>>>> 633966f33829384efbf5e9d7de414512787964ea

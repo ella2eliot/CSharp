@@ -10,6 +10,7 @@ namespace CSharpConsole
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             try
             {
                 //DateTimeFunctions.DtToString();
@@ -32,6 +33,17 @@ namespace CSharpConsole
             }
            
             
+=======
+            //DateTimeFunctions.DtToString();
+            //DateTimeFunctions.DtFromString("2019/07/30 15:18:53");
+            StringFunctions.StringHeaderKanban();
+            //DictionaryFunction.FristDefaultTest();
+            //HealthCare.DemoHealth();
+            //ExceptionFunction.MulityCatchTest();
+            //JsonFunctions.ParseTesting();
+            Console.ReadLine();
+            //TencentMPTMovement();
+>>>>>>> 633966f33829384efbf5e9d7de414512787964ea
         }
 
         public static void TencentMPTMovement()
