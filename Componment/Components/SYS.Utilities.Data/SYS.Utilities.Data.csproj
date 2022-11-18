@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A8F080D-B5A4-4421-93B4-395F21796E64}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SYS.Utilities.Data</RootNamespace>
+    <AssemblyName>SYS.Utilities.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\build\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>..\build\SYS.Utilities.Data.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\build\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>..\build\SYS.Utilities.Data.xml</DocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Oracle.DataAccess">
+      <HintPath>..\..\lib\Oracle.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationAccountSetting.cs" />
+    <Compile Include="ConnectionConstants.cs" />
+    <Compile Include="ConnectionHelper.cs" />
+    <Compile Include="DatabaseTypes.cs" />
+    <Compile Include="DataTypes.cs" />
+    <Compile Include="FieldCondition.cs" />
+    <Compile Include="FieldConditionTypes.cs" />
+    <Compile Include="IConnectionHelper.cs" />
+    <Compile Include="IQueryTool.cs" />
+    <Compile Include="OrderBy.cs" />
+    <Compile Include="OrderByTypes.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueryTool.cs" />
+    <Compile Include="SqlConnectionHelper.cs" />
+    <Compile Include="SQLHelper.cs" />
+    <Compile Include="SqlParameterDirection.cs" />
+    <Compile Include="SqlParameterMapper.cs" />
+    <Compile Include="TransactionScopeHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SYS.Utilities.Configuration\SYS.Utilities.Configuration.csproj">
+      <Project>{9CE8280E-CBF8-4911-B166-A3BF814C0F87}</Project>
+      <Name>SYS.Utilities.Configuration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SYS.Utilities.Logging\SYS.Utilities.Logging.csproj">
+      <Project>{1911A6CD-8E5A-4953-A58C-2F499E849196}</Project>
+      <Name>SYS.Utilities.Logging</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

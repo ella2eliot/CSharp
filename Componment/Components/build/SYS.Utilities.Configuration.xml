@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SYS.Utilities.Configuration</name>
+    </assembly>
+    <members>
+        <member name="T:SYS.Utilities.Configuration.AppSettingConfig">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Configuration.AppSettingConfig.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Configuration.AppSettingConfig.Value">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Configuration.ConfigManager.Instance">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.Save(System.Reflection.Assembly,SYS.Utilities.Configuration.AppSettingConfig)">
+            <summary>
+            Save the application setting to the specific assembly.
+            </summary>
+            <param name="assembly"></param>
+            <param name="appSetting"></param>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.Save(SYS.Utilities.Configuration.AppSettingConfig)">
+            <summary>
+            Save the application setting to the calling assembly.
+            </summary>
+            <param name="appSetting"></param>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.Save(SYS.Utilities.Configuration.AppSettingConfig,System.Boolean,System.Reflection.Assembly)">
+            <summary>
+            
+            </summary>
+            <param name="appSetting"></param>
+            <param name="createWhenNotExist"></param>
+            <param name="assembly"></param>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.GetConnectionStrings">
+            <summary>
+            Get connection string settings from calling assembly.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.GetConnectionStringsFromExecuteAssembly">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.GetConnectionString(System.String,System.Reflection.Assembly)">
+            <summary>
+            Get connection string setting from specific name and assembly.
+            </summary>
+            <param name="connectionName">Connection string name.</param>
+            <param name="assembly">Assembly that connection string stroed in.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.GetConnectionString(System.String,System.Reflection.Assembly,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            Get connection string setting from specific name and assembly.
+            </summary>
+            <param name="connectionName">Connection string name.</param>
+            <param name="assembly">Assembly that connection string stroed in.</param>
+            <param name="mapping"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.GetConnectionStrings(System.Reflection.Assembly)">
+            <summary>
+            Get connection string settings from specific assembly.
+            </summary>
+            <param name="assembly"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.GetAppSettings(System.Reflection.Assembly)">
+            <summary>
+            
+            </summary>
+            <param name="assembly"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.GetAppSetting(System.String,System.Reflection.Assembly)">
+            <summary>
+            
+            </summary>
+            <param name="key"></param>
+            <param name="assembly"></param>
+            <returns>Return the value of specific key in appSettings.</returns>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.GetAppSetting(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="key"></param>
+            <returns>Return the value of specific key in appSettings.</returns>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.GetAppSettings">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.DeleteAppSettings">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.DeleteConnectionSettings">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.Save(SYS.Utilities.Configuration.AppSettingConfig,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="appSetting"></param>
+            <param name="createWhenNotExist"></param>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.Save(System.Configuration.ConnectionStringSettings)">
+            <summary>
+            
+            </summary>
+            <param name="settings"></param>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.Save(System.Configuration.ConnectionStringSettings,System.Boolean,System.Reflection.Assembly)">
+            <summary>
+            
+            </summary>
+            <param name="settings"></param>
+            <param name="createWhenNotExist"></param>
+            <param name="assembly"></param>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.Save(System.Configuration.ConnectionStringSettings,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="settings"></param>
+            <param name="createWhenNotExist"></param>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.GetConnectionString(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.GetConnectionString(System.String,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="mapping"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.ConfigManager.GetCustomSection(System.Reflection.Assembly,System.String)">
+            <summary>
+            取得自訂區段
+            </summary>
+            <param name="assembly"></param>
+            <param name="sectionName">自訂區段名稱</param>
+            <returns></returns>
+        </member>
+        <member name="T:SYS.Utilities.Configuration.DatabaseMapping">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Configuration.DatabaseMapping.DatabaseName">
+            <summary>
+            預計連結之資料庫.
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Configuration.DatabaseMapping.AppConfigName">
+            <summary>
+            實際連結資料庫.
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Configuration.DatabaseMapping.DbType">
+            <summary>
+            資料庫類型.
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Configuration.DatabaseMapping.#ctor">
+            <summary>
+            Deafult constructor.
+            </summary>
+        </member>
+    </members>
+</doc>

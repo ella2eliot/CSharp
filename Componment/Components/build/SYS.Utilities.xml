@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SYS.Utilities</name>
+    </assembly>
+    <members>
+        <member name="T:SYS.Utilities.DateTimeTool">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.DateTimeTool.Convert(System.String)">
+            <summary>
+            </summary>
+            <param name = "date"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SYS.Utilities.IO.PathTool">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.IO.PathTool.RemoveCodeBase(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="codeBase"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.IO.PathTool.RemoveCodeBase(System.Reflection.Assembly)">
+            <summary>
+            
+            </summary>
+            <param name="assembly"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.IO.PathTool.GetDirectoryName(System.Reflection.Assembly)">
+            <summary>
+            
+            </summary>
+            <param name="assembly"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.IO.PathTool.ParseFilePathHierarchy(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="filePath"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.IO.PathTool.ParseFolder(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="fileLocation"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

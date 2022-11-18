@@ -1,0 +1,1416 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SYS.Utilities.Data</name>
+    </assembly>
+    <members>
+        <member name="T:SYS.Utilities.Data.ApplicationAccountSetting">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.ApplicationAccountSetting.DatabaseServer">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.ApplicationAccountSetting.DatabaseName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.ApplicationAccountSetting.Login">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.ApplicationAccountSetting.Password">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.ApplicationAccountSetting.ApplicationName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:SYS.Utilities.Data.ConnectionConstants">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:SYS.Utilities.Data.ConnectionConstants.MSSQL">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.ConnectionConstants.MSSQL.InitialCatalog">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:SYS.Utilities.Data.ConnectionConstants.Oracle">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.ConnectionConstants.Oracle.DataSource">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.ConnectionConstants.Oracle.UserID">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.ConnectionConstants.Oracle.Password">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.ConnectionConstants.Oracle.ApplicationName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.CreateConnection">
+            <summary>
+            Create connection by default setting.
+            connectionString name is 'default'.
+            connection string stored in execute assembly.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.CreateConnection(System.String)">
+            <summary>
+            Create connection by specific name.
+            connection string stored in execute assembly.
+            </summary>
+            <param name="connectionName">Connection name.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.CreateConnection(System.String,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="mapping"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.CreateConnection(System.String,System.Reflection.Assembly)">
+            <summary>
+            Create specific name connection.
+            </summary>
+            <param name="connectionName">Connection name.</param>
+            <param name="specificAssembly"></param>
+            <returns>Return opened connection.</returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.CreateConnection(System.String,System.Reflection.Assembly,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="specificAssembly"></param>
+            <param name="mapping"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.CreateConnection(SYS.Utilities.Data.ApplicationAccountSetting)">
+            <summary>
+            
+            </summary>
+            <param name="accountSetting"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.CreateParameter(SYS.Utilities.Data.SqlParameterMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.CreateParameterMapper(System.String,System.Object,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="parameterName"></param>
+            <param name="value"></param>
+            <param name="typeName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.CreateConnectionFromSpecificAssembly(System.String,System.Reflection.Assembly)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="specificAssembly"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.CreateConnectionFromSpecificAssembly(System.String,System.Reflection.Assembly,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="specificAssembly"></param>
+            <param name="mapping"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.CreateConnectionFromExecuteAssembly(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.CreateConnectionFromExecuteAssembly(System.String,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="mapping"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.GetConnectionString(SYS.Utilities.Data.ApplicationAccountSetting)">
+            <summary>
+            Get database connection string.
+            </summary>
+            <param name="accountSetting"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.ConnectionHelper.GetDataType(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="typeName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SYS.Utilities.Data.DatabaseTypes">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.DatabaseTypes.SQL">
+            <summary>
+             Microsoft SQL database.
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.DatabaseTypes.SQL2">
+            <summary>
+            2 phase connection for microsoft SQL database.
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.DatabaseTypes.Oracle">
+            <summary>
+             Oracle database.
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.DatabaseTypes.Oracle2">
+            <summary>
+            2 phase connection for Oracle database.
+            </summary>
+        </member>
+        <member name="T:SYS.Utilities.Data.DataTypes">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.DataTypes.Variant">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.DataTypes.Varchar">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.DataTypes.Nvarchar">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.DataTypes.DateTime">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:SYS.Utilities.Data.FieldCondition">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.FieldCondition.DatabaseType">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Data.FieldCondition.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="fieldName">field name of condition, ex where arg1 = @arg2. arg1 is field name.</param>
+        </member>
+        <member name="M:SYS.Utilities.Data.FieldCondition.#ctor(System.String,SYS.Utilities.Data.FieldConditionTypes)">
+            <summary>
+            
+            </summary>
+            <param name="fieldName">field name of condition, ex where arg1 = @arg2. arg1 is field name.</param>
+            <param name="conditionType"></param>
+        </member>
+        <member name="M:SYS.Utilities.Data.FieldCondition.#ctor(System.String,SYS.Utilities.Data.FieldConditionTypes,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="fieldName">field name of condition, ex where arg1 = @arg2. arg1 is field name.</param>
+            <param name="conditionType"></param>
+            <param name="argumentName">name of argument, ex: @arg1. arg1 is argument name.</param>
+        </member>
+        <member name="M:SYS.Utilities.Data.FieldCondition.#ctor(System.String,System.String,SYS.Utilities.Data.FieldConditionTypes,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="fieldName">field name of condition, ex where arg1 = @arg2. arg1 is field name.</param>
+            <param name="replaceName">replace the field name.</param>
+            <param name="conditionType"></param>
+            <param name="argumentName">name of argument, ex: @arg1. arg1 is argument name.</param>
+        </member>
+        <member name="M:SYS.Utilities.Data.FieldCondition.#ctor(System.String,System.String,SYS.Utilities.Data.FieldConditionTypes,System.String,System.String,System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="fieldName">field name of condition, ex where arg1 = @arg2. arg1 is field name.</param>
+            <param name="replaceName">replace the field name.</param>
+            <param name="conditionType"></param>
+            <param name="argumentName">name of argument, ex: @arg1. arg1 is argument name.</param>
+            <param name="dataType"></param>
+            <param name="argumentValue"></param>
+        </member>
+        <member name="P:SYS.Utilities.Data.FieldCondition.ArgumentValue">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.FieldCondition.ReplaceName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.FieldCondition.FieldName">
+            <summary>
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.FieldCondition.ConditionType">
+            <summary>
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.FieldCondition.DataType">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.FieldCondition.ArgumentName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Data.FieldCondition.ToString">
+            <summary>
+            Returns a <see cref="T:System.String"/> that represents the current <see cref="T:System.Object"/>.
+            </summary>
+            <returns>
+            A <see cref="T:System.String"/> that represents the current <see cref="T:System.Object"/>.
+            </returns>
+            <filterpriority>2</filterpriority>
+        </member>
+        <member name="T:SYS.Utilities.Data.FieldConditionTypes">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.FieldConditionTypes.Equal">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.FieldConditionTypes.NotEqual">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.FieldConditionTypes.Like">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.FieldConditionTypes.GreateThan">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.FieldConditionTypes.GreateEqual">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.FieldConditionTypes.LessThan">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.FieldConditionTypes.LessEqual">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.FieldConditionTypes.In">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.FieldConditionTypes.NotIn">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.FieldConditionTypes.IsNull">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.FieldConditionTypes.IsNotNull">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Data.IConnectionHelper.CreateConnection">
+            <summary>
+            Create connection by default setting.
+            connectionString name is 'default'.
+            connection string stored in execute assembly.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IConnectionHelper.CreateConnection(System.String)">
+            <summary>
+            Create connection by specific name.
+            connection string stored in execute assembly.
+            </summary>
+            <param name="connectionName">Connection name.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IConnectionHelper.CreateConnection(System.String,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="mapping"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IConnectionHelper.CreateConnection(System.String,System.Reflection.Assembly)">
+            <summary>
+            Create specific name connection.
+            </summary>
+            <param name="connectionName">Connection name.</param>
+            <param name="specificAssembly"></param>
+            <returns>Return opened connection.</returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IConnectionHelper.CreateConnection(System.String,System.Reflection.Assembly,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="specificAssembly"></param>
+            <param name="mapping"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IConnectionHelper.CreateConnection(SYS.Utilities.Data.ApplicationAccountSetting)">
+            <summary>
+            
+            </summary>
+            <param name="accountSetting"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IConnectionHelper.CreateParameter(SYS.Utilities.Data.SqlParameterMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IConnectionHelper.CreateParameterMapper(System.String,System.Object,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="parameterName"></param>
+            <param name="value"></param>
+            <param name="typeName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IConnectionHelper.GetConnectionString(SYS.Utilities.Data.ApplicationAccountSetting)">
+            <summary>
+            Get database connection string.
+            </summary>
+            <param name="accountSetting"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SYS.Utilities.Data.IQueryTool">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.IQueryTool.Logger">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.IQueryTool.ConnectionHelper">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.IQueryTool.ConnectionName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.IQueryTool.DbType">
+            <summary>
+            資料庫類別.
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.IQueryTool.SqlCommandTimeout">
+            <summary>
+            SQL command execute time out.(second)
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.IQueryTool.DatabaseMapping">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.IQueryTool.SpecificAssembly">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.CreateParameterMapper(System.String,System.Object)">
+            <summary>
+            </summary>
+            <param name="parameterName"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.ExecuteNoneQuery(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.ExecuteNoneQuery(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper})">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.ExecuteNoneQuery(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper},System.Data.IDbTransaction)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <param name="transaction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.ExecuteScalar(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.ExecuteScalar(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper})">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.ExecuteScalar(System.String,System.Data.IDbTransaction)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="transaction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.ExecuteScalar(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper},System.Data.IDbConnection)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <param name="connection"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.ExecuteScalar(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper},System.Data.IDbTransaction)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <param name="transaction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.FillParameter``1(``0,System.Collections.Generic.List{System.String}[])">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="item"></param>
+            <param name="fieldLists"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.FillParameter``1(``0,System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition}[])">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="item"></param>
+            <param name="fieldLists"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.FillParameter``1(``0,System.Collections.Generic.List{System.String},System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition}[])">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="item"></param>
+            <param name="valueFields"></param>
+            <param name="fieldLists"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.FillParameter``1(``0,System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition})">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="item"></param>
+            <param name="fieldLists"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.GetData(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.GetData(System.String,System.Data.IDbTransaction)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="transaction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.GetData(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper})">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.GetData(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper},System.Data.IDbConnection)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <param name="connection"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.GetData(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper},System.Data.IDbTransaction)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <param name="transaction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.GetDataSet(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.GetDataSet(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper})">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.GetDataSet(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper},System.Data.IDbConnection)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <param name="connection"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.GetConnection">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.IQueryTool.GetConnectionString">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:SYS.Utilities.Data.OrderBy">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.OrderBy.FieldName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.OrderBy.OrderByType">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Data.OrderBy.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="fieldName"></param>
+        </member>
+        <member name="M:SYS.Utilities.Data.OrderBy.#ctor(System.String,SYS.Utilities.Data.OrderByTypes)">
+            <summary>
+            
+            </summary>
+            <param name="fieldName"></param>
+            <param name="orderByTypeByType"></param>
+        </member>
+        <member name="T:SYS.Utilities.Data.OrderByTypes">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.OrderByTypes.Ascending">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.OrderByTypes.Descending">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:SYS.Utilities.Data.QueryTool">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.QueryTool.Logger">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.QueryTool.ConnectionHelper">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.QueryTool.ConnectionName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.QueryTool.DbType">
+            <summary>
+            資料庫類別.
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.QueryTool.SqlCommandTimeout">
+            <summary>
+            SQL command execute time out.(second)
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.QueryTool.DatabaseMapping">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.QueryTool.SpecificAssembly">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.#ctor">
+            <summary>
+            Create default connection named 'default', and stored in execute assembly.
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.#ctor(System.String)">
+            <summary>
+            Create connection by specific name, and stored in execute assembly.
+            </summary>
+            <param name="connectionName">Connection string name in config.</param>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.#ctor(System.String,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="mapping"></param>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.#ctor(System.String,System.String,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="dbType"></param>
+            <param name="mapping"></param>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.#ctor(System.String,System.Reflection.Assembly)">
+            <summary>
+            Create connection by specific name, and stored in specific assembly.
+            </summary>
+            <param name="connectionName">Connection string name in config.</param>
+            <param name="specificAssembly">Connection string stored in assembly</param>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.#ctor(System.String,System.Reflection.Assembly,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="specificAssembly"></param>
+            <param name="mapping"></param>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.#ctor(System.String,System.String,System.Reflection.Assembly,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="dbType"></param>
+            <param name="specificAssembly"></param>
+            <param name="mapping"></param>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.CreateParameterMapper(System.String,System.Object)">
+            <summary>
+            </summary>
+            <param name="parameterName"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.ExecuteNoneQuery(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper},System.Data.IDbTransaction)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <param name="transaction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.ExecuteNoneQuery(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper})">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.ExecuteNoneQuery(System.String)">
+            <summary>
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.GetCommandType(System.String)">
+            <summary>
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.GetData(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper},System.Data.IDbTransaction)">
+            <summary>
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <param name="transaction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.GetData(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper},System.Data.IDbConnection)">
+            <summary>
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <param name="connection"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.GetDataSet(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper},System.Data.IDbConnection)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <param name="connection"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.GetConnection">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.GetData(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper})">
+            <summary>
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.GetDataSet(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper})">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.GetData(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.GetDataSet(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.ExecuteScalar(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper},System.Data.IDbTransaction)">
+            <summary>
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <param name="transaction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.ExecuteScalar(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper})">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.ExecuteScalar(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.ExecuteScalar(System.String,System.Data.IDbTransaction)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="transaction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.ExecuteScalar(System.String,System.Collections.Generic.List{SYS.Utilities.Data.SqlParameterMapper},System.Data.IDbConnection)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="mappers"></param>
+            <param name="connection"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.FillParameter``1(``0,System.Collections.Generic.List{System.String}[])">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="item"></param>
+            <param name="fieldLists"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.FillParameter``1(``0,System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition}[])">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="item"></param>
+            <param name="fieldLists"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.FillParameter``1(``0,System.Collections.Generic.List{System.String},System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition}[])">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="item"></param>
+            <param name="valueFields"></param>
+            <param name="fieldLists"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.FillParameter``1(``0,System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition})">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="item"></param>
+            <param name="fieldLists"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.GetData(System.String,System.Data.IDbTransaction)">
+            <summary>
+            
+            </summary>
+            <param name="sql"></param>
+            <param name="transaction"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.GetConnection(SYS.Utilities.Data.ApplicationAccountSetting)">
+            <summary>
+            
+            </summary>
+            <param name="account"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.GetConnectionString">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.QueryTool.WriteLog(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="message"></param>
+        </member>
+        <member name="T:SYS.Utilities.Data.SqlConnectionHelper">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Data.SqlConnectionHelper.CreateConnection(SYS.Utilities.Data.ApplicationAccountSetting)">
+            <summary>
+            
+            </summary>
+            <param name="accountSetting"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SqlConnectionHelper.CreateParameter(SYS.Utilities.Data.SqlParameterMapper)">
+            <summary>
+            
+            </summary>
+            <param name="mapper"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SqlConnectionHelper.CreateParameterMapper(System.String,System.Object,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="parameterName"></param>
+            <param name="value"></param>
+            <param name="typeName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SqlConnectionHelper.GetConnectionString(SYS.Utilities.Data.ApplicationAccountSetting)">
+            <summary>
+            Get database connection string.
+            </summary>
+            <param name="accountSetting"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SqlConnectionHelper.CreateConnectionFromSpecificAssembly(System.String,System.Reflection.Assembly)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="specificAssembly"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SqlConnectionHelper.CreateConnectionFromSpecificAssembly(System.String,System.Reflection.Assembly,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="specificAssembly"></param>
+            <param name="mapping"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SqlConnectionHelper.CreateConnectionFromExecuteAssembly(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SqlConnectionHelper.CreateConnectionFromExecuteAssembly(System.String,SYS.Utilities.Configuration.DatabaseMapping)">
+            <summary>
+            
+            </summary>
+            <param name="connectionName"></param>
+            <param name="mapping"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SYS.Utilities.Data.SQLHelper">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.SQLHelper.DatabaseType">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.#ctor">
+            <summary>
+            
+            </summary>
+            
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.#ctor(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="databaseType"></param>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String})">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <param name="distinct"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},System.Int32,System.Collections.Generic.List{SYS.Utilities.Data.OrderBy})">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <param name="tops"></param>
+            <param name="orderBys"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},System.Int32,System.Collections.Generic.List{SYS.Utilities.Data.OrderBy},System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <param name="tops"></param>
+            <param name="orderBys"></param>
+            <param name="distinct"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},System.Collections.Generic.List{SYS.Utilities.Data.OrderBy},System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <param name="orderBys"></param>
+            <param name="distinct"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition})">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition},System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <param name="distinct"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition},System.Int32,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <param name="top"></param>
+            <param name="distinct"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetCountSQL(System.String,System.Collections.Generic.List{System.String})">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="conditionFields"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetCountSQL(System.String,System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition})">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="conditionFields"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition},System.Collections.Generic.List{SYS.Utilities.Data.OrderBy})">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <param name="orderBys"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition},System.Collections.Generic.List{SYS.Utilities.Data.OrderBy},System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <param name="orderBys"></param>
+            <param name="distinct"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition},System.Int32,System.Collections.Generic.List{SYS.Utilities.Data.OrderBy})">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <param name="top"></param>
+            <param name="orderBys"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition},System.Int32,System.Collections.Generic.List{SYS.Utilities.Data.OrderBy},System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <param name="top"></param>
+            <param name="orderBys"></param>
+            <param name="distinct"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition},System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <param name="top"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <param name="top"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetSelectSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String},System.Collections.Generic.List{SYS.Utilities.Data.OrderBy})">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <param name="orderBys"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetInsertSQL(System.String,System.Collections.Generic.List{System.String})">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="fields"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetUpdateSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{SYS.Utilities.Data.FieldCondition})">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetUpdateSQL(System.String,System.Collections.Generic.List{System.String},System.Collections.Generic.List{System.String})">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="valueFields"></param>
+            <param name="conditionFields"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.SQLHelper.GetDeleteSQL(System.String,System.Collections.Generic.List{System.String})">
+            <summary>
+            
+            </summary>
+            <param name="tableName"></param>
+            <param name="conditionFields"></param>
+            <returns></returns>
+        </member>
+        <member name="T:SYS.Utilities.Data.SqlParameterDirection">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.SqlParameterDirection.Input">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SYS.Utilities.Data.SqlParameterDirection.Output">
+            
+        </member>
+        <member name="F:SYS.Utilities.Data.SqlParameterDirection.RefCursor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:SYS.Utilities.Data.SqlParameterMapper">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Data.SqlParameterMapper.#ctor(System.String,System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="name"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:SYS.Utilities.Data.SqlParameterMapper.#ctor(System.String,System.Object,System.Int32,SYS.Utilities.Data.SqlParameterDirection)">
+            <summary>
+            
+            </summary>
+            <param name="name"></param>
+            <param name="value"></param>
+            <param name="size"></param>
+            <param name="direction"></param>
+        </member>
+        <member name="M:SYS.Utilities.Data.SqlParameterMapper.#ctor(System.String,System.Object,SYS.Utilities.Data.SqlParameterDirection)">
+            <summary>
+            
+            </summary>
+            <param name="name"></param>
+            <param name="value"></param>
+            <param name="direction"></param>
+        </member>
+        <member name="M:SYS.Utilities.Data.SqlParameterMapper.#ctor(System.String,System.Object,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="name"></param>
+            <param name="value"></param>
+            <param name="dataType"></param>
+        </member>
+        <member name="P:SYS.Utilities.Data.SqlParameterMapper.Direction">
+            <summary>
+            Parameter direction, default is Input.
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.SqlParameterMapper.Size">
+            <summary>
+            Size of parameter.
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.SqlParameterMapper.Name">
+            <summary>
+            Parameter name.
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.SqlParameterMapper.Value">
+            <summary>
+             Parameter value.
+            </summary>
+        </member>
+        <member name="P:SYS.Utilities.Data.SqlParameterMapper.DataType">
+            <summary>
+            Column data type
+            </summary>
+        </member>
+        <member name="T:SYS.Utilities.Data.TransactionScopeHelper">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:SYS.Utilities.Data.TransactionScopeHelper.CreateTransactionScope">
+            <summary>
+            Create the TransactionScope object with timeout 60 seconds and ReadCommitted isloation level.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.TransactionScopeHelper.CreateTransactionScope(System.Transactions.IsolationLevel)">
+            <summary>
+            Create the TransactionScope object with specific isloation level. the timeout default is 60 seconds.
+            </summary>
+            <param name="isolationLevel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.TransactionScopeHelper.CreateTransactionScope(System.Int32)">
+            <summary>
+            Create the TransactionScope object with specific timeout. the default isolation level is ReadCommitted
+            </summary>
+            <param name="timeout">Timeout in seconds</param>
+            <returns></returns>
+        </member>
+        <member name="M:SYS.Utilities.Data.TransactionScopeHelper.CreateTransactionScope(System.Int32,System.Transactions.IsolationLevel)">
+            <summary>
+            Create the TransactionScope object with specific timeout and isloation level.
+            </summary>
+            <param name="timeout"></param>
+            <param name="isolationLevel"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

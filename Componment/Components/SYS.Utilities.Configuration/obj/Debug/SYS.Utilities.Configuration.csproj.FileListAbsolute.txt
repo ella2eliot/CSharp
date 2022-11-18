@@ -1,0 +1,12 @@
+D:\Program\DF\Components\SYS.Utilities.Configuration\bin\Debug\SYS.Utilities.Configuration.dll
+D:\Program\DF\Components\SYS.Utilities.Configuration\bin\Debug\SYS.Utilities.Configuration.pdb
+D:\Program\DF\Components\SYS.Utilities.Configuration\bin\Debug\SYS.Utilities.dll
+D:\Program\DF\Components\SYS.Utilities.Configuration\bin\Debug\SYS.Utilities.pdb
+D:\Program\DF\Components\SYS.Utilities.Configuration\obj\Debug\SYS.Utilities.Configuration.csprojAssemblyReference.cache
+D:\Program\DF\Components\SYS.Utilities.Configuration\obj\Debug\SYS.Utilities.Configuration.csproj.CoreCompileInputs.cache
+D:\Program\DF\Components\SYS.Utilities.Configuration\obj\Debug\SYS.Utilities.Configuration.csproj.CopyComplete
+D:\Program\DF\Components\SYS.Utilities.Configuration\obj\Debug\SYS.Utilities.Configuration.dll
+D:\Program\DF\Components\SYS.Utilities.Configuration\obj\Debug\SYS.Utilities.Configuration.pdb
+D:\Program\DF\Components\build\SYS.Utilities.Configuration.xml
+D:\Program\DF\Components\build\SYS.Utilities.Configuration.dll
+D:\Program\DF\Components\build\SYS.Utilities.Configuration.pdb
