@@ -1,0 +1,161 @@
+﻿@model WebApplication2019_Captcha.Models.db_user
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+
+    <script type="text/javascript">
+        function reloadcode1() {     // 圖形碼的動態載入。重新產生驗證碼的Script
+            document.getElementById("Image1").src = "/WebForm/ValidatePicture.ashx?mis2000lab=" + Math.random();
+            return false;
+        }
+
+        function reloadcode2() {     // 圖形碼的動態載入。重新產生驗證碼的Script
+            document.getElementById("Image2").src = "/Home/GetValidatePicture?mis2000lab=" + Math.random();
+            return false;
+        }
+    </script>
+
+
+    <!--  如果你把這一段（引用jQuery）放到上面，會導致上方的 JavaScript無法運作！ -->
+    <script type="text/javascript" src="/Scripts/jquery-3.3.1.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            // 重新整理(0)
+            $("#buttonRefresh0").bind("click", function () {
+                $("#Image2").attr("src", "/Home/GetValidatePicture?mis2000lab=" + Math.random());
+                // 點擊圖片就會自動更換。因為產生圖片的.ashx檔不需要傳入數值就能產生圖片。
+                // 搭配這一段JavaScript卻需要輸入才能重新產生圖片，所以每次點擊 onclick都會傳入一個無意義又會變化的值。
+            });
+        });
+
+                //// 用滑鼠點擊圖片，就會更新圖片。需搭配上面引用jQuery
+                //$(document).ready(function () {
+                //    $("#Image2").bind("click", function () {
+                //        this.src = "/Home/GetValidatePicture?mis2000lab=" + Math.random();
+                //        // 點擊圖片就會自動更換。因為產生圖片的.ashx檔不需要傳入數值就能產生圖片。
+                //        // 搭配這一段JavaScript卻需要輸入才能重新產生圖片，所以每次點擊 onclick都會傳入一個無意義又會變化的值。
+                //    });
+                //});
+    </script>
+
+</head>
+<body>
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/jqueryval") 
+
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>db_user</h4>
+            <hr />
+            
+                <div class="form-group">
+                    @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.UserPassword, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.UserPassword, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.UserPassword, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <br /><br />       
+
+                      <div class="form-group">
+                          <!-- ***********************************************************************************(start) -->
+                          請輸入圖形驗證碼：<input type="text" id="ValidatePictureCode" name="ValidatePictureCode" />
+
+                          @* <br /><br /> (1). 共用Web Form的泛型處理常式（.ashx）
+                            <!-- 產生圖形驗證碼的Method，共用Web Form的泛型處理常式（.ashx） -->
+                            <img id="Image1" src="/WebForm/ValidatePicture.ashx" alt="圖形驗證碼(Web Form)"
+                                 onclick="this.src='/WebForm/ValidatePicture.ashx?mis2000lab=' + Math.random()" /><br>
+                            （點擊圖片就會自動更換。因為產生圖片的.ashx檔不需要傳入數值就能產生圖片。搭配這一段JavaScript卻需要輸入才能重新產生圖片，所以每次點擊 onclick都會傳入一個無意義又會變化的值。）
+                            <br />
+                            <button id="button1" onclick="return reloadcode1()">重新整理(2)，更換圖片</button> *@
+                          <!--  如果沒有加上 type="button"，會被當成 Submit導致畫面PostBack。 -->
+                          <!--  如果沒有加上 type="button"，後面要寫成 onclick="return reloadcode1()"。 -->
+
+
+                          <br /><br /> (2-1). Home控制器裡面的 ValidatePicture方法
+                          <!-- 產生圖形驗證碼的Method，寫在 Home控制器裡面的 ValidatePicture -->
+                          <img id="Image2" src="/Home/GetValidatePicture" alt="圖形驗證碼(MVC5)"
+                               onclick="this.src='/Home/GetValidatePicture?mis2000lab=' + Math.random()" /><br />
+                          （點擊圖片就會自動更換。因為產生圖片的/Home/GetValidatePicture不需要傳入數值就能產生圖片。搭配這一段JavaScript卻需要輸入才能重新產生圖片，所以每次點擊 onclick都會傳入一個無意義又會變化的值。）
+                          <br />
+                          <button type="button" id="buttonRefresh0">重新整理(0)，更換圖片</button>
+                          <br />
+                          <button type="button" id="buttonRefresh1" onclick="Image2.src='/Home/GetValidatePicture?mis2000lab=' + Math.random()">重新整理(1)，更換圖片</button>
+                          <br />
+                          <button type="button" id="buttonRefresh2" onclick="reloadcode2()">重新整理(2)，更換圖片</button>
+                          <!--  如果沒有加上 type="button"，會被當成 Submit導致畫面PostBack。 -->
+                          <!--  如果沒有加上 type="button"，後面要寫成 onclick="return reloadcode2()"。 -->
+                          <br />
+                          <button type="button" id="buttonRefresh3" onclick="$('#Image2').attr('src','/Home/GetValidatePicture?mis2000lab=' + Math.random())">重新整理(3)，更換圖片</button>
+                          <br />
+                          <a href="#" onclick="$('#Image2').attr('src', '/Home/GetValidatePicture?mis2000lab=' + Math.random()); return false;">重新整理(4)，更換圖片</a>
+
+                          @* (2-2). 第二種寫法，結果相同。
+                            <img id="Image2" src="@Url.Action("GetValidatePicture")" alt="圖形驗證碼(MVC5)"
+                                       onclick="this.src='@Url.Action("GetValidatePicture")?mis2000lab=' + Math.random()" /><br />
+                             （點擊圖片就會自動更換。因為產生圖片的/Home/GetValidatePicture不需要傳入數值就能產生圖片。搭配這一段JavaScript卻需要輸入才能重新產生圖片，所以每次點擊 onclick都會傳入一個無意義又會變化的值。）
+                            <br />
+                          *@
+
+
+                          <div class="col-md-10">
+                              @* (2-3). AJAX的作法 *@
+                              @*
+                                @using (Ajax.BeginForm("AjaxValidateCode", "Home", new AjaxOptions() { UpdateTargetId = "status" }))
+                                {    // 第一個是動作名稱，第二個才是控制器名稱。
+                                    <fieldset>
+                                        <legend>圖形驗證碼 (AJAX) </legend>
+                                        <img id="Image2" src="@Url.Action("GetValidatePicture")" alt="圖形驗證碼(MVC5)" />
+                                       <button id="Button2" onclick="return reloadcode();">重新整理，更換圖片</button>
+                                       <br/>&nbsp;&nbsp;&nbsp; ( 請稍等兩秒才會出現 )<br />
+
+                                        <br><br>
+                                        @Html.TextBox("ValidatePictureCode", null, new { placeholder = "請輸入圖形驗證碼" })
+
+                                        <input type="submit" value="輸入圖形驗證碼" />
+                                    </fieldset>
+                                }
+                              *@
+
+                              @section scripts  {
+                                  <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+                              }
+                          </div>
+                          <!-- ***********************************************************************************(end) -->
+                      </div>
+
+
+            <br /><br />
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create_會員登入" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+</body>
+</html>
