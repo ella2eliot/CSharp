@@ -145,3 +145,4 @@ D:\Users\User\Documents\Program\CSharp\CardMatch\CardMatch\obj\Release\CardMatch
 D:\Users\User\Documents\Program\CSharp\CardMatch\CardMatch\obj\Release\CardMatch.csproj.CopyComplete
 D:\Users\User\Documents\Program\CSharp\CardMatch\CardMatch\obj\Release\CardMatch.dll
 D:\Users\User\Documents\Program\CSharp\CardMatch\CardMatch\obj\Release\CardMatch.pdb
+D:\Users\User\Documents\Program\CSharp\CardMatch\CardMatch\obj\Release\CardMatch.csproj.AssemblyReference.cache
