@@ -28,13 +28,14 @@ namespace CSharpConsole
                     Console.WriteLine(string.Format("mmHg:{0}, heartbeat:{1}, age:{2}",mmHg,heartbeat,age));
                     Console.WriteLine("Call Azure Logic let manager care about potential employee !!! ");
                     // call other project console
-                    System.Diagnostics.Process pProcess = new System.Diagnostics.Process();
-                    pProcess.StartInfo.FileName = @"D:\Program\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.exe";
+                    //System.Diagnostics.Process pProcess = new System.Diagnostics.Process();
+                    //pProcess.StartInfo.FileName = @"D:\Program\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.exe";
+                    //pProcess.Start();
+                    // limited open one time.
+                    //callSub++;
                     //pProcess.StartInfo.Arguments = inputPath + " " + outputPath;
-                    pProcess.Start();
                     //pProcess.WaitForExit();
                     //pProcess.Close();
-                    callSub++;
                     //if ()
                     //{
                     //}

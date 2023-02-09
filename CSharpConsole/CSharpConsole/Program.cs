@@ -1,4 +1,6 @@
-﻿using InterView;
+﻿using Autofac;
+using HealthCareConsole;
+using InterView;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -10,7 +12,6 @@ namespace CSharpConsole
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
             try
             {
                 //DateTimeFunctions.DtToString();
@@ -22,8 +23,17 @@ namespace CSharpConsole
                 //JsonFunctions.ParseTesting();
                 //TencentMPTMovement();
 
-                SortArray();
+                //SortArray();
 
+                //BusinessLogic businessLogic = new BusinessLogic();
+                //businessLogic.ProcessData();
+
+                var container = ContainerConfig.Configure();
+                using (var scope = container.BeginLifetimeScope())
+                {
+                    var app=scope.Resolve<IApplication>();
+                    app.Run();
+                }
                 Console.ReadLine();
             }
             catch (Exception ex)
@@ -31,19 +41,8 @@ namespace CSharpConsole
                 Console.WriteLine(ex.Message);
                 Console.ReadLine();
             }
-           
             
-=======
-            //DateTimeFunctions.DtToString();
-            //DateTimeFunctions.DtFromString("2019/07/30 15:18:53");
-            StringFunctions.StringHeaderKanban();
-            //DictionaryFunction.FristDefaultTest();
-            //HealthCare.DemoHealth();
-            //ExceptionFunction.MulityCatchTest();
-            //JsonFunctions.ParseTesting();
-            Console.ReadLine();
-            //TencentMPTMovement();
->>>>>>> 633966f33829384efbf5e9d7de414512787964ea
+
         }
 
         public static void TencentMPTMovement()
