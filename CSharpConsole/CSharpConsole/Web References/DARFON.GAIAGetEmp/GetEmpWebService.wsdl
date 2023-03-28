@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetEmpByName">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="lang" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="name" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetEmpByNameResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetEmpByNameResult" type="tns:ArrayOfEmpEntity" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfEmpEntity">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="EmpEntity" nillable="true" type="tns:EmpEntity" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="EmpEntity">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="GAIAId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EmpId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EmpNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Name" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EnName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Email" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Site" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ExtNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="IsDL" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="IsActive" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="remark" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="AuthHeader" type="tns:AuthHeader" />
+      <s:complexType name="AuthHeader">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+        </s:sequence>
+        <s:anyAttribute />
+      </s:complexType>
+      <s:element name="GetEmpByEmpNo">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="empNo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetEmpByEmpNoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetEmpByEmpNoResult" type="tns:EmpEntity" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetEmpByNameSoapIn">
+    <wsdl:part name="parameters" element="tns:GetEmpByName" />
+  </wsdl:message>
+  <wsdl:message name="GetEmpByNameSoapOut">
+    <wsdl:part name="parameters" element="tns:GetEmpByNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetEmpByNameAuthHeader">
+    <wsdl:part name="AuthHeader" element="tns:AuthHeader" />
+  </wsdl:message>
+  <wsdl:message name="GetEmpByEmpNoSoapIn">
+    <wsdl:part name="parameters" element="tns:GetEmpByEmpNo" />
+  </wsdl:message>
+  <wsdl:message name="GetEmpByEmpNoSoapOut">
+    <wsdl:part name="parameters" element="tns:GetEmpByEmpNoResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetEmpByEmpNoAuthHeader">
+    <wsdl:part name="AuthHeader" element="tns:AuthHeader" />
+  </wsdl:message>
+  <wsdl:portType name="GetEmpWebServiceSoap">
+    <wsdl:operation name="GetEmpByName">
+      <wsdl:input message="tns:GetEmpByNameSoapIn" />
+      <wsdl:output message="tns:GetEmpByNameSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpByEmpNo">
+      <wsdl:input message="tns:GetEmpByEmpNoSoapIn" />
+      <wsdl:output message="tns:GetEmpByEmpNoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="GetEmpWebServiceSoap" type="tns:GetEmpWebServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetEmpByName">
+      <soap:operation soapAction="http://tempuri.org/GetEmpByName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:GetEmpByNameAuthHeader" part="AuthHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpByEmpNo">
+      <soap:operation soapAction="http://tempuri.org/GetEmpByEmpNo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+        <soap:header message="tns:GetEmpByEmpNoAuthHeader" part="AuthHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="GetEmpWebServiceSoap12" type="tns:GetEmpWebServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetEmpByName">
+      <soap12:operation soapAction="http://tempuri.org/GetEmpByName" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:GetEmpByNameAuthHeader" part="AuthHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpByEmpNo">
+      <soap12:operation soapAction="http://tempuri.org/GetEmpByEmpNo" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+        <soap12:header message="tns:GetEmpByEmpNoAuthHeader" part="AuthHeader" use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="GetEmpWebService">
+    <wsdl:port name="GetEmpWebServiceSoap" binding="tns:GetEmpWebServiceSoap">
+      <soap:address location="https://www.darfon.com.tw/lineapi/WebServices/GetEmpWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="GetEmpWebServiceSoap12" binding="tns:GetEmpWebServiceSoap12">
+      <soap12:address location="https://www.darfon.com.tw/lineapi/WebServices/GetEmpWebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

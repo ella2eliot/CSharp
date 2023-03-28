@@ -1,9 +1,0 @@
-C:\Users\USER\Documents\Visual Studio 2019\Projects\ClassLibrary2_CAPTCHA_Standard\bin\Debug\netstandard2.0\ClassLibrary2_CAPTCHA_Standard.deps.json
-C:\Users\USER\Documents\Visual Studio 2019\Projects\ClassLibrary2_CAPTCHA_Standard\bin\Debug\netstandard2.0\ClassLibrary2_CAPTCHA_Standard.dll
-C:\Users\USER\Documents\Visual Studio 2019\Projects\ClassLibrary2_CAPTCHA_Standard\obj\Debug\netstandard2.0\ClassLibrary2_CAPTCHA_Standard.AssemblyInfoInputs.cache
-C:\Users\USER\Documents\Visual Studio 2019\Projects\ClassLibrary2_CAPTCHA_Standard\obj\Debug\netstandard2.0\ClassLibrary2_CAPTCHA_Standard.AssemblyInfo.cs
-C:\Users\USER\Documents\Visual Studio 2019\Projects\ClassLibrary2_CAPTCHA_Standard\bin\Debug\netstandard2.0\ClassLibrary2_CAPTCHA_Standard.pdb
-C:\Users\USER\Documents\Visual Studio 2019\Projects\ClassLibrary2_CAPTCHA_Standard\obj\Debug\netstandard2.0\ClassLibrary2_CAPTCHA_Standard.dll
-C:\Users\USER\Documents\Visual Studio 2019\Projects\ClassLibrary2_CAPTCHA_Standard\obj\Debug\netstandard2.0\ClassLibrary2_CAPTCHA_Standard.pdb
-C:\Users\USER\Documents\Visual Studio 2019\Projects\ClassLibrary2_CAPTCHA_Standard\obj\Debug\netstandard2.0\ClassLibrary2_CAPTCHA_Standard.csprojAssemblyReference.cache
-C:\Users\USER\Documents\Visual Studio 2019\Projects\ClassLibrary2_CAPTCHA_Standard\obj\Debug\netstandard2.0\ClassLibrary2_CAPTCHA_Standard.csproj.CoreCompileInputs.cache

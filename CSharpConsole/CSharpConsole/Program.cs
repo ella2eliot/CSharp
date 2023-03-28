@@ -15,8 +15,12 @@ namespace CSharpConsole
             //HealthCare.DemoHealth();
             //ExceptionFunction.MulityCatchTest();
             //JsonFunctions.ParseTesting();
-            var input=Console.ReadLine();
-            LogFile.OutputTxt(input);
+
+            //var input=Console.ReadLine();
+            //LogFile.OutputTxt(input);
+            // StringFunctions.StringHeaderKanban();
+            // RegexFunctions.PhoneRegex();
+            WebServices.GetEmpTest.TestWebServiceLimited();
             Console.ReadLine();
             //TencentMPTMovement();
         }
