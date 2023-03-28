@@ -1,0 +1,877 @@
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\obj\Debug\DFWebService.csproj.AssemblyReference.cache
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\obj\Debug\DFWebService.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\DFWebService.dll.config
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\DFWebService.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\DFWebService.pdb
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\csc.exe
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\csc.exe.config
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\csc.rsp
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\csi.exe
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\csi.exe.config
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\csi.rsp
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.AppContext.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Console.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Globalization.Calendars.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.IO.Compression.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.IO.FileSystem.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Net.Http.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Net.Sockets.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.ValueTuple.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Xml.XPath.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\vbc.exe
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\vbc.exe.config
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\vbc.rsp
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\VBCSCompiler.exe
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Antlr3.Runtime.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Dapper.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Newtonsoft.Json.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Ninject.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Buffers.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Memory.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Net.Http.Formatting.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Numerics.Vectors.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Text.Encodings.Web.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Text.Json.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Threading.Tasks.Extensions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.ValueTuple.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.Helpers.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.Http.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.Http.WebHost.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.Mvc.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.Optimization.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.Razor.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.WebPages.Deployment.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.WebPages.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.WebPages.Razor.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\WebGrease.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Dapper.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Ninject.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Buffers.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Memory.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Numerics.Vectors.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Text.Encodings.Web.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Text.Json.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Threading.Tasks.Extensions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.ValueTuple.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Newtonsoft.Json.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Net.Http.Formatting.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.Helpers.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.Http.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.Http.WebHost.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.Mvc.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.Optimization.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.Razor.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.WebPages.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.WebPages.Deployment.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Web.WebPages.Razor.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Antlr3.Runtime.pdb
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\obj\Debug\DFWebService.csproj.CopyComplete
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\obj\Debug\DFWebService.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\obj\Debug\DFWebService.pdb
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Routing.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.Options.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.Primitives.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Net.Http.Headers.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.ComponentModel.Annotations.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Routing.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.Options.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Extensions.Primitives.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\Microsoft.Net.Http.Headers.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\SYS.BLL.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\SYS.DAL.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\SYS.Model.dll
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\SYS.BLL.pdb
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\SYS.BLL.dll.config
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\SYS.DAL.pdb
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\SYS.Model.pdb
+D:\Users\User\Documents\Program\CSharp\DFWebService\DFWebService\bin\appsettings.json
+D:\Program\DFWebService\DFWebService\bin\appsettings.json
+D:\Program\DFWebService\DFWebService\bin\DFWebService.dll.config
+D:\Program\DFWebService\DFWebService\bin\DFWebService.dll
+D:\Program\DFWebService\DFWebService\bin\DFWebService.pdb
+D:\Program\DFWebService\DFWebService\bin\roslyn\csc.exe
+D:\Program\DFWebService\DFWebService\bin\roslyn\csc.exe.config
+D:\Program\DFWebService\DFWebService\bin\roslyn\csc.rsp
+D:\Program\DFWebService\DFWebService\bin\roslyn\csi.exe
+D:\Program\DFWebService\DFWebService\bin\roslyn\csi.exe.config
+D:\Program\DFWebService\DFWebService\bin\roslyn\csi.rsp
+D:\Program\DFWebService\DFWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Program\DFWebService\DFWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Program\DFWebService\DFWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Program\DFWebService\DFWebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.AppContext.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Collections.Immutable.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Console.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Globalization.Calendars.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.IO.Compression.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.IO.FileSystem.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Net.Http.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Net.Sockets.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.ValueTuple.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Xml.XPath.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Program\DFWebService\DFWebService\bin\roslyn\vbc.exe
+D:\Program\DFWebService\DFWebService\bin\roslyn\vbc.exe.config
+D:\Program\DFWebService\DFWebService\bin\roslyn\vbc.rsp
+D:\Program\DFWebService\DFWebService\bin\roslyn\VBCSCompiler.exe
+D:\Program\DFWebService\DFWebService\bin\roslyn\VBCSCompiler.exe.config
+D:\Program\DFWebService\DFWebService\bin\Antlr3.Runtime.dll
+D:\Program\DFWebService\DFWebService\bin\Dapper.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Routing.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.Options.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.Primitives.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Net.Http.Headers.dll
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Web.Infrastructure.dll
+D:\Program\DFWebService\DFWebService\bin\Newtonsoft.Json.dll
+D:\Program\DFWebService\DFWebService\bin\Ninject.dll
+D:\Program\DFWebService\DFWebService\bin\SYS.BLL.dll
+D:\Program\DFWebService\DFWebService\bin\SYS.DAL.dll
+D:\Program\DFWebService\DFWebService\bin\SYS.Model.dll
+D:\Program\DFWebService\DFWebService\bin\System.Buffers.dll
+D:\Program\DFWebService\DFWebService\bin\System.ComponentModel.Annotations.dll
+D:\Program\DFWebService\DFWebService\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Program\DFWebService\DFWebService\bin\System.Memory.dll
+D:\Program\DFWebService\DFWebService\bin\System.Net.Http.Formatting.dll
+D:\Program\DFWebService\DFWebService\bin\System.Numerics.Vectors.dll
+D:\Program\DFWebService\DFWebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Program\DFWebService\DFWebService\bin\System.Text.Encodings.Web.dll
+D:\Program\DFWebService\DFWebService\bin\System.Text.Json.dll
+D:\Program\DFWebService\DFWebService\bin\System.Threading.Tasks.Extensions.dll
+D:\Program\DFWebService\DFWebService\bin\System.ValueTuple.dll
+D:\Program\DFWebService\DFWebService\bin\System.Web.Helpers.dll
+D:\Program\DFWebService\DFWebService\bin\System.Web.Http.dll
+D:\Program\DFWebService\DFWebService\bin\System.Web.Http.WebHost.dll
+D:\Program\DFWebService\DFWebService\bin\System.Web.Mvc.dll
+D:\Program\DFWebService\DFWebService\bin\System.Web.Optimization.dll
+D:\Program\DFWebService\DFWebService\bin\System.Web.Razor.dll
+D:\Program\DFWebService\DFWebService\bin\System.Web.WebPages.Deployment.dll
+D:\Program\DFWebService\DFWebService\bin\System.Web.WebPages.dll
+D:\Program\DFWebService\DFWebService\bin\System.Web.WebPages.Razor.dll
+D:\Program\DFWebService\DFWebService\bin\WebGrease.dll
+D:\Program\DFWebService\DFWebService\bin\SYS.BLL.pdb
+D:\Program\DFWebService\DFWebService\bin\SYS.BLL.dll.config
+D:\Program\DFWebService\DFWebService\bin\SYS.DAL.pdb
+D:\Program\DFWebService\DFWebService\bin\SYS.Model.pdb
+D:\Program\DFWebService\DFWebService\bin\Dapper.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Routing.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.Options.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Extensions.Primitives.xml
+D:\Program\DFWebService\DFWebService\bin\Microsoft.Net.Http.Headers.xml
+D:\Program\DFWebService\DFWebService\bin\Ninject.xml
+D:\Program\DFWebService\DFWebService\bin\System.Buffers.xml
+D:\Program\DFWebService\DFWebService\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Program\DFWebService\DFWebService\bin\System.Memory.xml
+D:\Program\DFWebService\DFWebService\bin\System.Numerics.Vectors.xml
+D:\Program\DFWebService\DFWebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Program\DFWebService\DFWebService\bin\System.Text.Encodings.Web.xml
+D:\Program\DFWebService\DFWebService\bin\System.Text.Json.xml
+D:\Program\DFWebService\DFWebService\bin\System.Threading.Tasks.Extensions.xml
+D:\Program\DFWebService\DFWebService\bin\System.ValueTuple.xml
+D:\Program\DFWebService\DFWebService\bin\Newtonsoft.Json.xml
+D:\Program\DFWebService\DFWebService\bin\System.Net.Http.Formatting.xml
+D:\Program\DFWebService\DFWebService\bin\System.Web.Helpers.xml
+D:\Program\DFWebService\DFWebService\bin\System.Web.Http.xml
+D:\Program\DFWebService\DFWebService\bin\System.Web.Http.WebHost.xml
+D:\Program\DFWebService\DFWebService\bin\System.Web.Mvc.xml
+D:\Program\DFWebService\DFWebService\bin\System.Web.Optimization.xml
+D:\Program\DFWebService\DFWebService\bin\System.Web.Razor.xml
+D:\Program\DFWebService\DFWebService\bin\System.Web.WebPages.xml
+D:\Program\DFWebService\DFWebService\bin\System.Web.WebPages.Deployment.xml
+D:\Program\DFWebService\DFWebService\bin\System.Web.WebPages.Razor.xml
+D:\Program\DFWebService\DFWebService\bin\Antlr3.Runtime.pdb
+D:\Program\DFWebService\DFWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Program\DFWebService\DFWebService\obj\Debug\DFWebService.csprojAssemblyReference.cache
+D:\Program\DFWebService\DFWebService\obj\Debug\DFWebService.csproj.CoreCompileInputs.cache
+D:\Program\DFWebService\DFWebService\obj\Debug\DFWebService.csproj.CopyComplete
+D:\Program\DFWebService\DFWebService\obj\Debug\DFWebService.dll
+D:\Program\DFWebService\DFWebService\obj\Debug\DFWebService.pdb
+D:\Program\DFNew\DFWebService\bin\appsettings.json
+D:\Program\DFNew\DFWebService\bin\DFWebService.dll.config
+D:\Program\DFNew\DFWebService\bin\DFWebService.dll
+D:\Program\DFNew\DFWebService\bin\DFWebService.pdb
+D:\Program\DFNew\DFWebService\bin\roslyn\csc.exe
+D:\Program\DFNew\DFWebService\bin\roslyn\csc.exe.config
+D:\Program\DFNew\DFWebService\bin\roslyn\csc.rsp
+D:\Program\DFNew\DFWebService\bin\roslyn\csi.exe
+D:\Program\DFNew\DFWebService\bin\roslyn\csi.exe.config
+D:\Program\DFNew\DFWebService\bin\roslyn\csi.rsp
+D:\Program\DFNew\DFWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Program\DFNew\DFWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Program\DFNew\DFWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Program\DFNew\DFWebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.AppContext.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Collections.Immutable.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Console.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Globalization.Calendars.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.IO.Compression.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.IO.FileSystem.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Net.Http.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Net.Sockets.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.ValueTuple.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Xml.XPath.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Program\DFNew\DFWebService\bin\roslyn\vbc.exe
+D:\Program\DFNew\DFWebService\bin\roslyn\vbc.exe.config
+D:\Program\DFNew\DFWebService\bin\roslyn\vbc.rsp
+D:\Program\DFNew\DFWebService\bin\roslyn\VBCSCompiler.exe
+D:\Program\DFNew\DFWebService\bin\roslyn\VBCSCompiler.exe.config
+D:\Program\DFNew\DFWebService\bin\Antlr3.Runtime.dll
+D:\Program\DFNew\DFWebService\bin\Dapper.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Http.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Routing.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.Options.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.Primitives.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.Net.Http.Headers.dll
+D:\Program\DFNew\DFWebService\bin\Microsoft.Web.Infrastructure.dll
+D:\Program\DFNew\DFWebService\bin\Newtonsoft.Json.dll
+D:\Program\DFNew\DFWebService\bin\Ninject.dll
+D:\Program\DFNew\DFWebService\bin\SYS.BLL.dll
+D:\Program\DFNew\DFWebService\bin\SYS.DAL.dll
+D:\Program\DFNew\DFWebService\bin\SYS.Model.dll
+D:\Program\DFNew\DFWebService\bin\System.Buffers.dll
+D:\Program\DFNew\DFWebService\bin\System.ComponentModel.Annotations.dll
+D:\Program\DFNew\DFWebService\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Program\DFNew\DFWebService\bin\System.Memory.dll
+D:\Program\DFNew\DFWebService\bin\System.Net.Http.Formatting.dll
+D:\Program\DFNew\DFWebService\bin\System.Numerics.Vectors.dll
+D:\Program\DFNew\DFWebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Program\DFNew\DFWebService\bin\System.Text.Encodings.Web.dll
+D:\Program\DFNew\DFWebService\bin\System.Text.Json.dll
+D:\Program\DFNew\DFWebService\bin\System.Threading.Tasks.Extensions.dll
+D:\Program\DFNew\DFWebService\bin\System.ValueTuple.dll
+D:\Program\DFNew\DFWebService\bin\System.Web.Helpers.dll
+D:\Program\DFNew\DFWebService\bin\System.Web.Http.dll
+D:\Program\DFNew\DFWebService\bin\System.Web.Http.WebHost.dll
+D:\Program\DFNew\DFWebService\bin\System.Web.Mvc.dll
+D:\Program\DFNew\DFWebService\bin\System.Web.Optimization.dll
+D:\Program\DFNew\DFWebService\bin\System.Web.Razor.dll
+D:\Program\DFNew\DFWebService\bin\System.Web.WebPages.Deployment.dll
+D:\Program\DFNew\DFWebService\bin\System.Web.WebPages.dll
+D:\Program\DFNew\DFWebService\bin\System.Web.WebPages.Razor.dll
+D:\Program\DFNew\DFWebService\bin\WebGrease.dll
+D:\Program\DFNew\DFWebService\bin\SYS.BLL.pdb
+D:\Program\DFNew\DFWebService\bin\SYS.BLL.dll.config
+D:\Program\DFNew\DFWebService\bin\SYS.DAL.pdb
+D:\Program\DFNew\DFWebService\bin\SYS.Model.pdb
+D:\Program\DFNew\DFWebService\bin\Dapper.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Http.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Routing.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.Options.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.Extensions.Primitives.xml
+D:\Program\DFNew\DFWebService\bin\Microsoft.Net.Http.Headers.xml
+D:\Program\DFNew\DFWebService\bin\Ninject.xml
+D:\Program\DFNew\DFWebService\bin\System.Buffers.xml
+D:\Program\DFNew\DFWebService\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Program\DFNew\DFWebService\bin\System.Memory.xml
+D:\Program\DFNew\DFWebService\bin\System.Numerics.Vectors.xml
+D:\Program\DFNew\DFWebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Program\DFNew\DFWebService\bin\System.Text.Encodings.Web.xml
+D:\Program\DFNew\DFWebService\bin\System.Text.Json.xml
+D:\Program\DFNew\DFWebService\bin\System.Threading.Tasks.Extensions.xml
+D:\Program\DFNew\DFWebService\bin\System.ValueTuple.xml
+D:\Program\DFNew\DFWebService\bin\Newtonsoft.Json.xml
+D:\Program\DFNew\DFWebService\bin\System.Net.Http.Formatting.xml
+D:\Program\DFNew\DFWebService\bin\System.Web.Helpers.xml
+D:\Program\DFNew\DFWebService\bin\System.Web.Http.xml
+D:\Program\DFNew\DFWebService\bin\System.Web.Http.WebHost.xml
+D:\Program\DFNew\DFWebService\bin\System.Web.Mvc.xml
+D:\Program\DFNew\DFWebService\bin\System.Web.Optimization.xml
+D:\Program\DFNew\DFWebService\bin\System.Web.Razor.xml
+D:\Program\DFNew\DFWebService\bin\System.Web.WebPages.xml
+D:\Program\DFNew\DFWebService\bin\System.Web.WebPages.Deployment.xml
+D:\Program\DFNew\DFWebService\bin\System.Web.WebPages.Razor.xml
+D:\Program\DFNew\DFWebService\bin\Antlr3.Runtime.pdb
+D:\Program\DFNew\DFWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Program\DFNew\DFWebService\obj\Debug\DFWebService.csprojAssemblyReference.cache
+D:\Program\DFNew\DFWebService\obj\Debug\DFWebService.csproj.CoreCompileInputs.cache
+D:\Program\DFNew\DFWebService\obj\Debug\DFWebService.csproj.CopyComplete
+D:\Program\DFNew\DFWebService\obj\Debug\DFWebService.dll
+D:\Program\DFNew\DFWebService\obj\Debug\DFWebService.pdb
+D:\Program\DFNew\DFWebService\bin\LineBot.dll
+D:\Program\DFNew\DFWebService\bin\LineBot.xml
+D:\Program\DFNew\DFWebService\bin\SYS.Utilities.Net.dll
+D:\Program\DFNew\DFWebService\bin\LineBot.pdb
+D:\Program\DFNew\DFWebService\bin\LineBot.dll.config
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\appsettings.json
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\DFWebService.dll.config
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\DFWebService.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\DFWebService.pdb
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\csc.exe
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\csc.exe.config
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\csc.rsp
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\csi.exe
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\csi.exe.config
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\csi.rsp
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.AppContext.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Collections.Immutable.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Console.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Globalization.Calendars.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.IO.Compression.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.IO.FileSystem.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Net.Http.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Net.Sockets.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Reflection.Metadata.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.ValueTuple.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Xml.XPath.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\vbc.exe
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\vbc.exe.config
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\vbc.rsp
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\VBCSCompiler.exe
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\roslyn\VBCSCompiler.exe.config
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Antlr3.Runtime.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Dapper.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\LineBot.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Authorization.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Http.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Routing.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.DependencyModel.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.ObjectPool.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.Options.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.Primitives.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Net.Http.Headers.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Web.Infrastructure.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Newtonsoft.Json.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Ninject.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\SYS.BLL.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\SYS.DAL.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\SYS.Model.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Buffers.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.ComponentModel.Annotations.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Diagnostics.DiagnosticSource.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Memory.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Net.Http.Formatting.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Numerics.Vectors.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Text.Encodings.Web.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Text.Json.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Threading.Tasks.Extensions.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.ValueTuple.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.Helpers.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.Http.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.Http.WebHost.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.Mvc.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.Optimization.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.Razor.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.WebPages.Deployment.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.WebPages.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.WebPages.Razor.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\WebGrease.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\SYS.Utilities.Net.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\SYS.BLL.pdb
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\SYS.BLL.dll.config
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\SYS.DAL.pdb
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\SYS.Model.pdb
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Dapper.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\LineBot.pdb
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\LineBot.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\LineBot.dll.config
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Authorization.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Http.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Routing.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.ObjectPool.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.Options.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Extensions.Primitives.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.Net.Http.Headers.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Ninject.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Buffers.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Diagnostics.DiagnosticSource.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Memory.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Numerics.Vectors.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Text.Encodings.Web.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Text.Json.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Threading.Tasks.Extensions.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.ValueTuple.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Newtonsoft.Json.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Net.Http.Formatting.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.Helpers.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.Http.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.Http.WebHost.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.Mvc.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.Optimization.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.Razor.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.WebPages.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.WebPages.Deployment.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\System.Web.WebPages.Razor.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Antlr3.Runtime.pdb
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\bin\SYS.BLL.XmlSerializers.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\obj\Debug\DFWebService.csprojAssemblyReference.cache
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\obj\Debug\DFWebService.csproj.CoreCompileInputs.cache
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\obj\Debug\DFWebService.csproj.CopyComplete
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\obj\Debug\DFWebService.dll
+E:\ITS\BPM_DFE_[SYS-Other] Chatbot\Source\DFWebService\obj\Debug\DFWebService.pdb
+E:\Program\CSharp\Chat bot\DFWebService\obj\Debug\DFWebService.csprojAssemblyReference.cache
+E:\Program\CSharp\Chat bot\DFWebService\obj\Debug\DFWebService.csproj.CoreCompileInputs.cache
+E:\Program\CSharp\Chat bot\DFWebService\obj\Debug\DFWebService.dll
+E:\Program\CSharp\Chat bot\DFWebService\obj\Debug\DFWebService.pdb
+E:\Program\CSharp\Chat bot\DFWebService\bin\appsettings.json
+E:\Program\CSharp\Chat bot\DFWebService\bin\DFWebService.dll.config
+E:\Program\CSharp\Chat bot\DFWebService\bin\DFWebService.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\DFWebService.pdb
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\csc.exe
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\csc.exe.config
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\csc.rsp
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\csi.exe
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\csi.exe.config
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\csi.rsp
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.AppContext.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Collections.Immutable.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Console.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Globalization.Calendars.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.IO.Compression.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.IO.FileSystem.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Net.Http.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Net.Sockets.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Reflection.Metadata.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.ValueTuple.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Xml.XPath.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\vbc.exe
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\vbc.exe.config
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\vbc.rsp
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\VBCSCompiler.exe
+E:\Program\CSharp\Chat bot\DFWebService\bin\roslyn\VBCSCompiler.exe.config
+E:\Program\CSharp\Chat bot\DFWebService\bin\Antlr3.Runtime.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Dapper.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\LineBot.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Authorization.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Http.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Routing.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.DependencyModel.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.Options.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.Primitives.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Net.Http.Headers.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Web.Infrastructure.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Newtonsoft.Json.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\Ninject.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\SYS.BLL.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\SYS.DAL.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\SYS.Model.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Buffers.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.ComponentModel.Annotations.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Memory.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Net.Http.Formatting.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Numerics.Vectors.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Text.Encodings.Web.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Text.Json.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Threading.Tasks.Extensions.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.ValueTuple.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.Helpers.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.Http.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.Http.WebHost.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.Mvc.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.Optimization.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.Razor.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.WebPages.Deployment.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.WebPages.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.WebPages.Razor.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\WebGrease.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\SYS.Utilities.Net.dll
+E:\Program\CSharp\Chat bot\DFWebService\bin\SYS.BLL.pdb
+E:\Program\CSharp\Chat bot\DFWebService\bin\SYS.BLL.dll.config
+E:\Program\CSharp\Chat bot\DFWebService\bin\SYS.DAL.pdb
+E:\Program\CSharp\Chat bot\DFWebService\bin\SYS.Model.pdb
+E:\Program\CSharp\Chat bot\DFWebService\bin\Dapper.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\LineBot.pdb
+E:\Program\CSharp\Chat bot\DFWebService\bin\LineBot.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\LineBot.dll.config
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Authorization.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Http.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Routing.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.Options.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Extensions.Primitives.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.Net.Http.Headers.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Ninject.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Buffers.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Memory.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Numerics.Vectors.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Text.Encodings.Web.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Text.Json.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Threading.Tasks.Extensions.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.ValueTuple.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Newtonsoft.Json.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Net.Http.Formatting.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.Helpers.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.Http.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.Http.WebHost.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.Mvc.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.Optimization.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.Razor.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.WebPages.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.WebPages.Deployment.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\System.Web.WebPages.Razor.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\Antlr3.Runtime.pdb
+E:\Program\CSharp\Chat bot\DFWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Program\CSharp\Chat bot\DFWebService\bin\SYS.BLL.XmlSerializers.dll
+E:\Program\CSharp\Chat bot\DFWebService\obj\Debug\DFWebService.csproj.CopyComplete
