@@ -1,4 +1,4 @@
-﻿using SimpleTCP;
+﻿//using SimpleTCP;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -8,6 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using HslCommunication;
+using HslCommunication.ModBus;
 
 namespace Client
 {
@@ -17,19 +19,29 @@ namespace Client
         {
             InitializeComponent();
         }
-
-        SimpleTcpClient client;
+        // SimpleTcpClient
+        // SimpleTcpClient client;
+        ModbusTcpNet busTcpClient;
         private void btn_Connect_Click(object sender, EventArgs e)
         {
             btn_Connect.Enabled = false;
-            client.Connect(txb_Host.Text, Convert.ToInt32(txb_Port.Text));
+            // SimpleTcpClient
+            // client.Connect(txb_Host.Text, Convert.ToInt32(txb_Port.Text));
+
+            busTcpClient.IpAddress = txb_Host.Text;
+            busTcpClient.Port = Convert.ToInt32(txb_Port);
+            busTcpClient.ConnectServer();
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            client= new SimpleTcpClient();
-            client.StringEncoder = Encoding.UTF8;
-            client.DataReceived += Client_DataReceived;
+            // SimpleTcpClient
+            //client = new SimpleTcpClient();
+            //client.StringEncoder = Encoding.UTF8;
+            //client.DataReceived += Client_DataReceived;
+
+            busTcpClient = new ModbusTcpNet();
         }
 
         private void Client_DataReceived(object sender, SimpleTCP.Message e)
@@ -41,7 +53,9 @@ namespace Client
 
         private void btn_Send_Click(object sender, EventArgs e)
         {
-            client.WriteLineAndGetReply(txb_Message.Text, TimeSpan.FromSeconds(3));
+            // SimpleTcpClient
+            // client.WriteLineAndGetReply(txb_Message.Text, TimeSpan.FromSeconds(3));
+            // var result=busTcpClient.Write(txb_Message.Text);
         }
     }
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\Program\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe.config
 D:\Program\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe
 D:\Program\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.pdb
@@ -25,3 +26,38 @@ D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.Cop
 D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.exe
 D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.pdb
 D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csprojAssemblyReference.cache
+=======
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe.config
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.pdb
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Autofac.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\InterView.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Newtonsoft.Json.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Buffers.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Memory.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.pdb
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.dll.config
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.exe.config
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Autofac.xml
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\InterView.pdb
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Newtonsoft.Json.xml
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Buffers.xml
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Memory.xml
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.AssemblyReference.cache
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.CopyComplete
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.exe
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.pdb
+>>>>>>> main

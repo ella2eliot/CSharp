@@ -1,0 +1,10 @@
+D:\Program\DF\Components\SYS.Utilities.Exceptions\obj\Debug\SYS.Utilities.Exceptions.csproj.CoreCompileInputs.cache
+D:\Program\DF\Components\SYS.Utilities.Exceptions\bin\Debug\SYS.Utilities.Exceptions.dll
+D:\Program\DF\Components\SYS.Utilities.Exceptions\bin\Debug\SYS.Utilities.Exceptions.pdb
+D:\Program\DF\Components\SYS.Utilities.Exceptions\obj\Debug\SYS.Utilities.Exceptions.dll
+D:\Program\DF\Components\SYS.Utilities.Exceptions\obj\Debug\SYS.Utilities.Exceptions.pdb
+D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\bin\Debug\SYS.Utilities.Exceptions.dll
+D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\bin\Debug\SYS.Utilities.Exceptions.pdb
+D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\obj\Debug\SYS.Utilities.Exceptions.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\obj\Debug\SYS.Utilities.Exceptions.dll
+D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\obj\Debug\SYS.Utilities.Exceptions.pdb

@@ -111,6 +111,7 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+<<<<<<< HEAD
     <Content Include="Content\imgs\bb.jpg" />
     <Content Include="Content\imgs\f01.jpg" />
     <Content Include="Content\imgs\f02.jpg" />
@@ -145,6 +146,62 @@
     <Content Include="Content\imgs\f31.jpg" />
     <Content Include="Content\imgs\f32.jpg" />
     <Content Include="Content\imgs\ff.jpg" />
+=======
+    <Content Include="Content\imgs\a-z\f01.jpg" />
+    <Content Include="Content\imgs\a-z\f02.jpg" />
+    <Content Include="Content\imgs\a-z\f03.jpg" />
+    <Content Include="Content\imgs\a-z\f04.jpg" />
+    <Content Include="Content\imgs\a-z\f05.jpg" />
+    <Content Include="Content\imgs\a-z\f06.jpg" />
+    <Content Include="Content\imgs\a-z\f07.jpg" />
+    <Content Include="Content\imgs\a-z\f08.jpg" />
+    <Content Include="Content\imgs\a-z\f09.jpg" />
+    <Content Include="Content\imgs\a-z\f10.jpg" />
+    <Content Include="Content\imgs\a-z\f11.jpg" />
+    <Content Include="Content\imgs\a-z\f12.jpg" />
+    <Content Include="Content\imgs\a-z\f13.jpg" />
+    <Content Include="Content\imgs\a-z\f14.jpg" />
+    <Content Include="Content\imgs\a-z\f15.jpg" />
+    <Content Include="Content\imgs\a-z\f16.jpg" />
+    <Content Include="Content\imgs\a-z\f17.jpg" />
+    <Content Include="Content\imgs\a-z\f18.jpg" />
+    <Content Include="Content\imgs\a-z\f19.jpg" />
+    <Content Include="Content\imgs\a-z\f20.jpg" />
+    <Content Include="Content\imgs\a-z\f21.jpg" />
+    <Content Include="Content\imgs\a-z\f22.jpg" />
+    <Content Include="Content\imgs\a-z\f23.jpg" />
+    <Content Include="Content\imgs\a-z\f24.jpg" />
+    <Content Include="Content\imgs\a-z\f25.jpg" />
+    <Content Include="Content\imgs\a-z\f26.jpg" />
+    <Content Include="Content\imgs\bb.jpg" />
+    <Content Include="Content\imgs\ff.jpg" />
+    <Content Include="Content\imgs\fruit\f01.jpg" />
+    <Content Include="Content\imgs\fruit\f02.jpg" />
+    <Content Include="Content\imgs\fruit\f03.jpg" />
+    <Content Include="Content\imgs\fruit\f04.jpg" />
+    <Content Include="Content\imgs\fruit\f05.jpg" />
+    <Content Include="Content\imgs\fruit\f06.jpg" />
+    <Content Include="Content\imgs\fruit\f07.jpg" />
+    <Content Include="Content\imgs\fruit\f08.jpg" />
+    <Content Include="Content\imgs\fruit\f09.jpg" />
+    <Content Include="Content\imgs\fruit\f10.jpg" />
+    <Content Include="Content\imgs\fruit\f11.jpg" />
+    <Content Include="Content\imgs\fruit\f12.jpg" />
+    <Content Include="Content\imgs\fruit\f13.jpg" />
+    <Content Include="Content\imgs\fruit\f14.jpg" />
+    <Content Include="Content\imgs\fruit\f15.jpg" />
+    <Content Include="Content\imgs\fruit\f16.jpg" />
+    <Content Include="Content\imgs\fruit\f17.jpg" />
+    <Content Include="Content\imgs\fruit\f18.jpg" />
+    <Content Include="Content\imgs\fruit\f19.jpg" />
+    <Content Include="Content\imgs\fruit\f20.jpg" />
+    <Content Include="Content\imgs\fruit\f21.jpg" />
+    <Content Include="Content\imgs\fruit\f22.jpg" />
+    <Content Include="Content\imgs\fruit\f23.jpg" />
+    <Content Include="Content\imgs\fruit\f24.jpg" />
+    <Content Include="Content\imgs\fruit\f25.jpg" />
+    <Content Include="Content\imgs\fruit\f26.jpg" />
+>>>>>>> main
     <Content Include="Content\Site.css" />
     <Content Include="Default.aspx" />
     <Content Include="Default_m.aspx" />
@@ -159,9 +216,17 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+<<<<<<< HEAD
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+=======
+    <None Include="Properties\PublishProfiles\MentoCardMatch - Web Deploy.pubxml" />
+    <None Include="Scripts\jquery-3.4.1.intellisense.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\cardmatchLogic.js" />
+>>>>>>> main
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
     <Content Include="Scripts\jquery-3.4.1.slim.js" />
@@ -189,10 +254,15 @@
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Site.Master" />
+<<<<<<< HEAD
     <None Include="ViewSwitcher.ascx.bak" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
     <None Include="Site.Mobile.Master.bak" />
+=======
+    <Content Include="Web.config" />
+    <Content Include="Bundle.config" />
+>>>>>>> main
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
@@ -236,6 +306,7 @@
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Site.Mobile.Master.cs">
       <DependentUpon>Site.Mobile.Master.bak</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -254,6 +325,11 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Properties\PublishProfiles\" />
+=======
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+>>>>>>> main
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

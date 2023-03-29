@@ -1,0 +1,5 @@
+C:\Users\study\Documents\Visual Studio 2012\Projects\ValidNumPic\ValidNumPic\bin\Debug\ValidNumPic.dll
+C:\Users\study\Documents\Visual Studio 2012\Projects\ValidNumPic\ValidNumPic\bin\Debug\ValidNumPic.pdb
+C:\Users\study\Documents\Visual Studio 2012\Projects\ValidNumPic\ValidNumPic\obj\Debug\ValidNumPic.csprojResolveAssemblyReference.cache
+C:\Users\study\Documents\Visual Studio 2012\Projects\ValidNumPic\ValidNumPic\obj\Debug\ValidNumPic.dll
+C:\Users\study\Documents\Visual Studio 2012\Projects\ValidNumPic\ValidNumPic\obj\Debug\ValidNumPic.pdb

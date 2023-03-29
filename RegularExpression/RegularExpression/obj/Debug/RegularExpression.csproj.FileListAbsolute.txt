@@ -1,0 +1,20 @@
+C:\Users\study\Documents\Visual Studio 2012\Projects\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe.config
+C:\Users\study\Documents\Visual Studio 2012\Projects\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe
+C:\Users\study\Documents\Visual Studio 2012\Projects\RegularExpression\RegularExpression\bin\Debug\RegularExpression.pdb
+C:\Users\study\Documents\Visual Studio 2012\Projects\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csprojResolveAssemblyReference.cache
+C:\Users\study\Documents\Visual Studio 2012\Projects\RegularExpression\RegularExpression\obj\Debug\RegularExpression.Form1.resources
+C:\Users\study\Documents\Visual Studio 2012\Projects\RegularExpression\RegularExpression\obj\Debug\RegularExpression.Properties.Resources.resources
+C:\Users\study\Documents\Visual Studio 2012\Projects\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.GenerateResource.Cache
+C:\Users\study\Documents\Visual Studio 2012\Projects\RegularExpression\RegularExpression\obj\Debug\RegularExpression.exe
+C:\Users\study\Documents\Visual Studio 2012\Projects\RegularExpression\RegularExpression\obj\Debug\RegularExpression.pdb
+D:\Users\User\Documents\Program\CSharp\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe.config
+D:\Users\User\Documents\Program\CSharp\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe
+D:\Users\User\Documents\Program\CSharp\RegularExpression\RegularExpression\bin\Debug\RegularExpression.pdb
+D:\Users\User\Documents\Program\CSharp\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.AssemblyReference.cache
+D:\Users\User\Documents\Program\CSharp\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Documents\Program\CSharp\RegularExpression\RegularExpression\obj\Debug\RegularExpression.Form1.resources
+D:\Users\User\Documents\Program\CSharp\RegularExpression\RegularExpression\obj\Debug\RegularExpression.Properties.Resources.resources
+D:\Users\User\Documents\Program\CSharp\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.GenerateResource.cache
+D:\Users\User\Documents\Program\CSharp\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\Program\CSharp\RegularExpression\RegularExpression\obj\Debug\RegularExpression.exe
+D:\Users\User\Documents\Program\CSharp\RegularExpression\RegularExpression\obj\Debug\RegularExpression.pdb
