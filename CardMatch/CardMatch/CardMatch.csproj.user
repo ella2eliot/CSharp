@@ -9,8 +9,12 @@
     <IISExpressUseClassicPipelineMode />
     <UseGlobalApplicationHostFile />
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
+<<<<<<< HEAD
+    <NameOfLastUsedPublishProfile>MentoCardMatch - Web Deploy</NameOfLastUsedPublishProfile>
+=======
     <NameOfLastUsedPublishProfile>D:\Users\User\Documents\Program\CSharp\CardMatch\CardMatch\Properties\PublishProfiles\MentoCardMatch - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
     <ProjectView>ShowAllFiles</ProjectView>
+>>>>>>> main
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

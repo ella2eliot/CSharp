@@ -46,7 +46,11 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
+<<<<<<< HEAD
+                    <a class="navbar-brand" runat="server" href="~/">Application name</a>
+=======
                     <a class="navbar-brand" runat="server" href="~/">Card Match</a>
+>>>>>>> main
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">

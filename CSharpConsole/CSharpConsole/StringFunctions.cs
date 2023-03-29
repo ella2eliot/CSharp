@@ -36,7 +36,7 @@ namespace CSharpConsole
             Console.WriteLine(Convert.ToDouble(Regex.Match(array_str[4].Trim(), "[+-]?([0-9]*[.])?[0-9]+").Value));
             Console.WriteLine(array_str.Length);
         }
-
+        
         public static void StartWithTesting()
         {
             var str = "3S3C20-000GQ";
