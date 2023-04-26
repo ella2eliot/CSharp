@@ -1,32 +1,3 @@
-<<<<<<< HEAD
-D:\Program\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe.config
-D:\Program\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe
-D:\Program\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.pdb
-D:\Program\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.CoreCompileInputs.cache
-D:\Program\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.exe
-D:\Program\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.pdb
-D:\Program\CSharpConsole\CSharpConsole\bin\Debug\Newtonsoft.Json.dll
-D:\Program\CSharpConsole\CSharpConsole\bin\Debug\Newtonsoft.Json.xml
-D:\Program\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.CopyComplete
-D:\Program\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.exe
-D:\Program\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.pdb
-D:\Program\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.exe.config
-D:\Program\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.AssemblyReference.cache
-D:\Program\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.SuggestedBindingRedirects.cache
-D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe.config
-D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe
-D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.pdb
-D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.exe
-D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Newtonsoft.Json.dll
-D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.pdb
-D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\HealthCareConsole.exe.config
-D:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Newtonsoft.Json.xml
-D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.CoreCompileInputs.cache
-D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.CopyComplete
-D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.exe
-D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.pdb
-D:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csprojAssemblyReference.cache
-=======
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe.config
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.exe
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\CSharpConsole.pdb
@@ -35,6 +6,13 @@ D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Hea
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\InterView.dll
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Newtonsoft.Json.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.Aop.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.Configuration.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.Data.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.Exceptions.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.Logging.dll
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.Security.dll
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Buffers.dll
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Diagnostics.DiagnosticSource.dll
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Memory.dll
@@ -48,6 +26,13 @@ D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Aut
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\InterView.pdb
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Newtonsoft.Json.xml
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.pdb
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.Aop.pdb
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.Configuration.pdb
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.Data.pdb
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.Exceptions.pdb
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.Logging.pdb
+D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\SYS.Utilities.Security.pdb
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Buffers.xml
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\System.Memory.xml
@@ -60,4 +45,3 @@ D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSh
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.CopyComplete
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.exe
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.pdb
->>>>>>> main

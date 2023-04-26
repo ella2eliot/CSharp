@@ -6,29 +6,13 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace CSharpConsole
 {
     public class Program
     {
         static void Main(string[] args)
-        {
-<<<<<<< HEAD
-            //DateTimeFunctions.DtToString();
-            //DateTimeFunctions.DtFromString("2019/07/30 15:18:53");
-            //StringFunctions.StringHeaderKanban();
-            //DictionaryFunction.FristDefaultTest();
-            //HealthCare.DemoHealth();
-            //ExceptionFunction.MulityCatchTest();
-            //JsonFunctions.ParseTesting();
-
-            //var input=Console.ReadLine();
-            //LogFile.OutputTxt(input);
-            // StringFunctions.StringHeaderKanban();
-            // RegexFunctions.PhoneRegex();
-            WebServices.GetEmpTest.TestWebServiceLimited();
-            Console.ReadLine();
-            //TencentMPTMovement();
-=======
+        {   
             try
             {
                 //DateTimeFunctions.DtToString();
@@ -40,17 +24,23 @@ namespace CSharpConsole
                 //JsonFunctions.ParseTesting();
                 //TencentMPTMovement();
 
+                //var input=Console.ReadLine();
+                //LogFile.OutputTxt(input);
+                // StringFunctions.StringHeaderKanban();
+                // RegexFunctions.PhoneRegex();  
+
                 //SortArray();
 
                 //BusinessLogic businessLogic = new BusinessLogic();
                 //businessLogic.ProcessData();
 
-                var container = ContainerConfig.Configure();
-                using (var scope = container.BeginLifetimeScope())
-                {
-                    var app=scope.Resolve<IApplication>();
-                    app.Run();
-                }
+                //var container = ContainerConfig.Configure();
+                //using (var scope = container.BeginLifetimeScope())
+                //{
+                //    var app=scope.Resolve<IApplication>();
+                //    app.Run();
+                //}
+                Console.WriteLine(SHA256Functions.EncryptData("ITS@dmin01", "DFE"));
                 Console.ReadLine();
             }
             catch (Exception ex)
@@ -60,7 +50,6 @@ namespace CSharpConsole
             }
             
 
->>>>>>> main
         }
 
         public static void TencentMPTMovement()
@@ -70,7 +59,7 @@ namespace CSharpConsole
             var ts = DateTimeFunctions.ConvertDateTime2TimeStamp(dt);
             var clientId = "inventec-201910-achn";
             var secretKey = "ffc44369-fcb6-o2dj";
-            var SHA256 = new SHA256Functions();
+            
 
             var obj = new HttpWebRequestFunctions();
             //var result=obj.TencentMPTHello(clientId, SHA256.TencentMPTSHA256(clientId, secretKey, ts), ts);
@@ -78,7 +67,7 @@ namespace CSharpConsole
             var result=obj.TencentMPTUpload(clientId, SHA256.TencentMPTSHA256(clientId, secretKey, ts), ts);
             Console.WriteLine(string.Format("status: {0} \r\nmessage: {1}", result.status, result.message));
             */
-            Console.WriteLine(string.Format("ts: {0} \r\nSHA256: {1}", ts, SHA256.TencentMPTSHA256(clientId, secretKey, ts)));
+            Console.WriteLine(string.Format("ts: {0} \r\nSHA256: {1}", ts, SHA256Functions.TencentMPTSHA256(clientId, secretKey, ts)));
 
             Console.ReadLine();
         }

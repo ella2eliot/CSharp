@@ -1,25 +1,6 @@
-<<<<<<< HEAD
-D:\Program\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.exe.config
-D:\Program\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.exe
-D:\Program\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.pdb
-D:\Program\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.csproj.SuggestedBindingRedirects.cache
-D:\Program\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.csproj.CoreCompileInputs.cache
-D:\Program\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.exe
-D:\Program\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.pdb
-D:\Program\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.csproj.AssemblyReference.cache
-D:\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.exe.config
-D:\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.exe
-D:\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.pdb
-D:\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.csproj.CoreCompileInputs.cache
-D:\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.exe
-D:\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.pdb
-D:\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.csprojAssemblyReference.cache
-=======
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.dll.config
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.dll
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.pdb
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.csproj.CoreCompileInputs.cache
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.dll
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.pdb
-D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.csproj.AssemblyReference.cache
->>>>>>> main

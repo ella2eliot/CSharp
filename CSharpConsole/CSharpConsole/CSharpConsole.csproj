@@ -46,15 +46,32 @@
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="SYS.Utilities">
+      <HintPath>..\..\lib\SYS.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="SYS.Utilities.Aop">
+      <HintPath>..\..\lib\SYS.Utilities.Aop.dll</HintPath>
+    </Reference>
+    <Reference Include="SYS.Utilities.Configuration">
+      <HintPath>..\..\lib\SYS.Utilities.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="SYS.Utilities.Data">
+      <HintPath>..\..\lib\SYS.Utilities.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="SYS.Utilities.Exceptions">
+      <HintPath>..\..\lib\SYS.Utilities.Exceptions.dll</HintPath>
+    </Reference>
+    <Reference Include="SYS.Utilities.Logging">
+      <HintPath>..\..\lib\SYS.Utilities.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="SYS.Utilities.Security">
+      <HintPath>..\..\lib\SYS.Utilities.Security.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
     </Reference>
     <Reference Include="System.Core" />
-<<<<<<< HEAD
-    <Reference Include="System.EnterpriseServices" />
-    <Reference Include="System.Web.Services" />
-=======
     <Reference Include="System.Diagnostics.DiagnosticSource, Version=4.0.5.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Diagnostics.DiagnosticSource.4.7.1\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
     </Reference>
@@ -71,7 +88,6 @@
     <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.2\lib\netstandard2.0\System.Threading.Tasks.Extensions.dll</HintPath>
     </Reference>
->>>>>>> main
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -101,16 +117,7 @@
     <Compile Include="RegexFunctions.cs" />
     <Compile Include="SHA256Functions.cs" />
     <Compile Include="StringFunctions.cs" />
-<<<<<<< HEAD
-    <Compile Include="Web References\DARFON.GAIAGetEmp\Reference.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.map</DependentUpon>
-    </Compile>
-    <Compile Include="WebServices\GetEmpTest.cs" />
-=======
     <Compile Include="Solution.cs" />
->>>>>>> main
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
