@@ -1,4 +1,5 @@
 ﻿using Autofac;
+using CSharpConsole.DARFON.GAIA;
 using HealthCareConsole;
 using InterView;
 using System;
@@ -40,7 +41,22 @@ namespace CSharpConsole
                 //    var app=scope.Resolve<IApplication>();
                 //    app.Run();
                 //}
-                Console.WriteLine(SHA256Functions.EncryptData("ITS@dmin01", "DFE"));
+                //Console.WriteLine(SHA256Functions.EncryptData("ITS@dmin01", "DFE"));
+
+
+                var ws= new GetEmpSoapClient();
+
+                AccountDto accountDto = new AccountDto();
+                accountDto.EmpEnName = "Patrick Lai";//"Wright Chen";
+                accountDto.Pwd = "Dfeflow@520.";// "Dfeflow@520.";
+                
+                mySoapHeader soapHeader = new mySoapHeader();
+                // soapHeader.Acc = "Wright Chen";
+                soapHeader.Acc = "Patrick Lai";
+                soapHeader.Pwd = Convert.ToBase64String(Encoding.UTF8.GetBytes("Dfeflow@520."));                
+
+                var result = ws.EmpAccountVerification(soapHeader,accountDto);
+
                 Console.ReadLine();
             }
             catch (Exception ex)

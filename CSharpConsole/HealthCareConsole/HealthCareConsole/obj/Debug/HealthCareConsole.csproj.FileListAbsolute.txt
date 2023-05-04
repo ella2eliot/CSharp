@@ -4,3 +4,9 @@ D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCar
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.csproj.CoreCompileInputs.cache
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.dll
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.pdb
+E:\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.dll.config
+E:\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.dll
+E:\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\bin\Debug\HealthCareConsole.pdb
+E:\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.csproj.CoreCompileInputs.cache
+E:\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.dll
+E:\Program\CSharp\CSharpConsole\HealthCareConsole\HealthCareConsole\obj\Debug\HealthCareConsole.pdb
