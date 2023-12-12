@@ -107,6 +107,7 @@
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Compile>
     <Compile Include="ContainerConfig.cs" />
+    <Compile Include="DataSetFunctions.cs" />
     <Compile Include="DateTimeFunctions.cs" />
     <Compile Include="DictionaryFunction.cs" />
     <Compile Include="ExceptionFunction.cs" />

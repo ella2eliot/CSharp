@@ -44,18 +44,22 @@ namespace CSharpConsole
                 //Console.WriteLine(SHA256Functions.EncryptData("ITS@dmin01", "DFE"));
 
 
-                var ws= new GetEmpSoapClient();
+                // Get Emp
+                //var ws= new GetEmpSoapClient();
 
-                AccountDto accountDto = new AccountDto();
-                accountDto.EmpEnName = "Patrick Lai";//"Wright Chen";
-                accountDto.Pwd = "Dfeflow@520.";// "Dfeflow@520.";
-                
-                mySoapHeader soapHeader = new mySoapHeader();
-                // soapHeader.Acc = "Wright Chen";
-                soapHeader.Acc = "Patrick Lai";
-                soapHeader.Pwd = Convert.ToBase64String(Encoding.UTF8.GetBytes("Dfeflow@520."));                
+                //AccountDto accountDto = new AccountDto();
+                //accountDto.EmpEnName = "Patrick Lai";//"Wright Chen";
+                //accountDto.Pwd = "Dfeflow@520.";// "Dfeflow@520.";
 
-                var result = ws.EmpAccountVerification(soapHeader,accountDto);
+                //mySoapHeader soapHeader = new mySoapHeader();
+                //// soapHeader.Acc = "Wright Chen";
+                //soapHeader.Acc = "Patrick Lai";
+                //soapHeader.Pwd = Convert.ToBase64String(Encoding.UTF8.GetBytes("Dfeflow@520."));
+
+                //var result = ws.EmpAccountVerification(soapHeader,accountDto);
+
+                DataSetFunctions.BuildInserSQL();
+
 
                 Console.ReadLine();
             }
