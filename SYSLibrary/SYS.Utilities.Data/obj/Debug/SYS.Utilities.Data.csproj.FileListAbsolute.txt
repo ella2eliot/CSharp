@@ -27,3 +27,10 @@ D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Data\obj\Debug\S
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Data\obj\Debug\SYS.Utilities.Data.csproj.CopyComplete
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Data\obj\Debug\SYS.Utilities.Data.dll
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Data\obj\Debug\SYS.Utilities.Data.pdb
+E:\Program\CSharp\SYSLibrary\build\SYS.Utilities.Data.dll
+E:\Program\CSharp\SYSLibrary\build\SYS.Utilities.Data.pdb
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Data\obj\Debug\SYS.Utilities.Data.csprojAssemblyReference.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Data\obj\Debug\SYS.Utilities.Data.csproj.CoreCompileInputs.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Data\obj\Debug\SYS.Utilities.Data.csproj.CopyComplete
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Data\obj\Debug\SYS.Utilities.Data.dll
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Data\obj\Debug\SYS.Utilities.Data.pdb

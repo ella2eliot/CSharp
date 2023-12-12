@@ -34,8 +34,12 @@
     <DocumentationFile>..\build\SYS.Utilities.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ionic.Zip.1.9.1.8\lib\Ionic.Zip.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -47,6 +51,11 @@
     <Compile Include="Common\Guard.cs" />
     <Compile Include="Common\NullObject.cs" />
     <Compile Include="DateTimeTool.cs" />
+    <Compile Include="Dialog\DialogHelper.cs" />
+    <Compile Include="IO\DirectoryTool.cs" />
+    <Compile Include="IO\EncodingMapper.cs" />
+    <Compile Include="IO\FileContext.cs" />
+    <Compile Include="IO\FileTool.cs" />
     <Compile Include="IO\PathTool.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Serialization\SerializableDictionary.cs" />
@@ -56,6 +65,9 @@
       <Project>{51BADD3E-200A-43AA-9C2F-CB60C62F81C1}</Project>
       <Name>SYS.Utilities.Exceptions</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

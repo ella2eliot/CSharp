@@ -16,3 +16,9 @@ D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Security\obj\Deb
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Security\obj\Debug\SYS.Utilities.Security.csproj.CoreCompileInputs.cache
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Security\obj\Debug\SYS.Utilities.Security.dll
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Security\obj\Debug\SYS.Utilities.Security.pdb
+E:\Program\CSharp\SYSLibrary\build\SYS.Utilities.Security.dll
+E:\Program\CSharp\SYSLibrary\build\SYS.Utilities.Security.pdb
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Security\obj\Debug\SYS.Utilities.Security.csprojAssemblyReference.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Security\obj\Debug\SYS.Utilities.Security.csproj.CoreCompileInputs.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Security\obj\Debug\SYS.Utilities.Security.dll
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Security\obj\Debug\SYS.Utilities.Security.pdb

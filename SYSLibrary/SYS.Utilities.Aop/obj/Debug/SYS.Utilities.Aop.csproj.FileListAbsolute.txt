@@ -16,3 +16,9 @@ D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Aop\obj\Debug\SY
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Aop\obj\Debug\SYS.Utilities.Aop.csproj.CoreCompileInputs.cache
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Aop\obj\Debug\SYS.Utilities.Aop.dll
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Aop\obj\Debug\SYS.Utilities.Aop.pdb
+E:\Program\CSharp\SYSLibrary\build\SYS.Utilities.Aop.dll
+E:\Program\CSharp\SYSLibrary\build\SYS.Utilities.Aop.pdb
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Aop\obj\Debug\SYS.Utilities.Aop.csprojAssemblyReference.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Aop\obj\Debug\SYS.Utilities.Aop.csproj.CoreCompileInputs.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Aop\obj\Debug\SYS.Utilities.Aop.dll
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Aop\obj\Debug\SYS.Utilities.Aop.pdb

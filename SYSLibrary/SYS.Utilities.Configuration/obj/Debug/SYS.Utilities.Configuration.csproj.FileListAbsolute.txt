@@ -23,3 +23,10 @@ D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Configuration\ob
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Configuration\obj\Debug\SYS.Utilities.Configuration.csproj.CopyComplete
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Configuration\obj\Debug\SYS.Utilities.Configuration.dll
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Configuration\obj\Debug\SYS.Utilities.Configuration.pdb
+E:\Program\CSharp\SYSLibrary\build\SYS.Utilities.Configuration.dll
+E:\Program\CSharp\SYSLibrary\build\SYS.Utilities.Configuration.pdb
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Configuration\obj\Debug\SYS.Utilities.Configuration.csprojAssemblyReference.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Configuration\obj\Debug\SYS.Utilities.Configuration.csproj.CoreCompileInputs.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Configuration\obj\Debug\SYS.Utilities.Configuration.csproj.CopyComplete
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Configuration\obj\Debug\SYS.Utilities.Configuration.dll
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Configuration\obj\Debug\SYS.Utilities.Configuration.pdb

@@ -21,3 +21,10 @@ D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities\obj\Debug\SYS.Ut
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities\obj\Debug\SYS.Utilities.csproj.CopyComplete
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities\obj\Debug\SYS.Utilities.dll
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities\obj\Debug\SYS.Utilities.pdb
+E:\Program\CSharp\SYSLibrary\build\SYS.Utilities.dll
+E:\Program\CSharp\SYSLibrary\build\SYS.Utilities.pdb
+E:\Program\CSharp\SYSLibrary\SYS.Utilities\obj\Debug\SYS.Utilities.csprojAssemblyReference.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities\obj\Debug\SYS.Utilities.csproj.CoreCompileInputs.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities\obj\Debug\SYS.Utilities.csproj.CopyComplete
+E:\Program\CSharp\SYSLibrary\SYS.Utilities\obj\Debug\SYS.Utilities.dll
+E:\Program\CSharp\SYSLibrary\SYS.Utilities\obj\Debug\SYS.Utilities.pdb

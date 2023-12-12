@@ -18,3 +18,9 @@ D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Logging\obj\Debu
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Logging\obj\Debug\SYS.Utilities.Logging.csproj.CoreCompileInputs.cache
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Logging\obj\Debug\SYS.Utilities.Logging.dll
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Logging\obj\Debug\SYS.Utilities.Logging.pdb
+E:\Program\CSharp\SYSLibrary\build\SYS.Utilities.Logging.dll
+E:\Program\CSharp\SYSLibrary\build\SYS.Utilities.Logging.pdb
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Logging\obj\Debug\SYS.Utilities.Logging.csprojAssemblyReference.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Logging\obj\Debug\SYS.Utilities.Logging.csproj.CoreCompileInputs.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Logging\obj\Debug\SYS.Utilities.Logging.dll
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Logging\obj\Debug\SYS.Utilities.Logging.pdb

@@ -8,3 +8,9 @@ D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\bin\D
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\obj\Debug\SYS.Utilities.Exceptions.csproj.CoreCompileInputs.cache
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\obj\Debug\SYS.Utilities.Exceptions.dll
 D:\Users\User\Documents\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\obj\Debug\SYS.Utilities.Exceptions.pdb
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\bin\Debug\SYS.Utilities.Exceptions.dll
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\bin\Debug\SYS.Utilities.Exceptions.pdb
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\obj\Debug\SYS.Utilities.Exceptions.csprojAssemblyReference.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\obj\Debug\SYS.Utilities.Exceptions.csproj.CoreCompileInputs.cache
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\obj\Debug\SYS.Utilities.Exceptions.dll
+E:\Program\CSharp\SYSLibrary\SYS.Utilities.Exceptions\obj\Debug\SYS.Utilities.Exceptions.pdb
