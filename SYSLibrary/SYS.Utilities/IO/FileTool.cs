@@ -59,6 +59,21 @@ namespace SYS.Utilities.IO
 
             return encoding.GetString(bytes, length, bytes.Length - length);
         }
+        // false: 覆蓋原本檔案, true: 原有檔案上新增內容
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="fileName"></param>
+        /// <param name="message"></param>
+        public static void WriteAllText(string filePath, string message)
+        {
+            // false: 覆蓋原本檔案, true: 原有檔案上新增內容
+            using (StreamWriter file = new StreamWriter(filePath, true))
+            {
+                file.WriteLine(string.Format("{0} : {1}", DateTime.Now.ToString(), message));
+            }
+
+        }
         /// <summary>
         /// 
         /// </summary>
