@@ -84,4 +84,5 @@ E:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.Cor
 E:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.csproj.CopyComplete
 E:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.exe
 E:\Program\CSharp\CSharpConsole\CSharpConsole\obj\Debug\CSharpConsole.pdb
-E:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\DarfonOracleTools.dll
+E:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Lottery.dll
+E:\Program\CSharp\CSharpConsole\CSharpConsole\bin\Debug\Lottery.pdb

@@ -170,6 +170,10 @@
       <Project>{818E8717-0F03-4290-B1BC-37B5D30C4EEA}</Project>
       <Name>HealthCareConsole</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Lottery\Lottery.csproj">
+      <Project>{07a13905-e01a-4150-a409-396f2071794d}</Project>
+      <Name>Lottery</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Connected Services\" />

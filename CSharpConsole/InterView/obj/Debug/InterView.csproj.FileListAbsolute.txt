@@ -3,3 +3,8 @@ D:\Users\User\Documents\Program\CSharp\CSharpConsole\InterView\bin\Debug\InterVi
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\InterView\obj\Debug\InterView.csproj.CoreCompileInputs.cache
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\InterView\obj\Debug\InterView.dll
 D:\Users\User\Documents\Program\CSharp\CSharpConsole\InterView\obj\Debug\InterView.pdb
+E:\Program\CSharp\CSharpConsole\InterView\bin\Debug\InterView.dll
+E:\Program\CSharp\CSharpConsole\InterView\bin\Debug\InterView.pdb
+E:\Program\CSharp\CSharpConsole\InterView\obj\Debug\InterView.csproj.CoreCompileInputs.cache
+E:\Program\CSharp\CSharpConsole\InterView\obj\Debug\InterView.dll
+E:\Program\CSharp\CSharpConsole\InterView\obj\Debug\InterView.pdb

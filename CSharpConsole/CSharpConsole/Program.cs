@@ -6,7 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-
+using Lottery;
 
 namespace CSharpConsole
 {
@@ -58,8 +58,10 @@ namespace CSharpConsole
 
                 //var result = ws.EmpAccountVerification(soapHeader,accountDto);
 
-                DataSetFunctions.BuildInserSQL();
+               //  DataSetFunctions.BuildInserSQL();
 
+                Lottery539 lottery539 = new Lottery539();
+                lottery539.GetMiniSets();
 
                 Console.ReadLine();
             }

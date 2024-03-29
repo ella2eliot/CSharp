@@ -1,0 +1,5 @@
+E:\Program\CSharp\CSharpConsole\Lottery\bin\Debug\Lottery.dll
+E:\Program\CSharp\CSharpConsole\Lottery\bin\Debug\Lottery.pdb
+E:\Program\CSharp\CSharpConsole\Lottery\obj\Debug\Lottery.csproj.CoreCompileInputs.cache
+E:\Program\CSharp\CSharpConsole\Lottery\obj\Debug\Lottery.dll
+E:\Program\CSharp\CSharpConsole\Lottery\obj\Debug\Lottery.pdb
